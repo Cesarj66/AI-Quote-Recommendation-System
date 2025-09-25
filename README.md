@@ -1,3 +1,7 @@
+This project addresses the need for a personalized and context-aware quote recommendation system that makes the use of quotations more accessible, relevant, and intuitive. By reducing friction in the quote discovery process, the application aims to encourage deeper engagement with the wisdom of the past and promote thoughtful expression in the present. Our system is designed to analyze user input, detect emotions and themes, and recommend quotes that are both meaningful and contextually appropriate. In this way, it helps bridge the gap between modern communication and historical insight.
+
+
+
 # quote-recommendation-system
 emotion/context-based curated-quote recommendation system
 
