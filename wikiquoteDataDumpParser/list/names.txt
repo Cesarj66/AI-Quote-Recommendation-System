@@ -1,0 +1,2855 @@
+1. Homer — B1a, C10, -800
+2. Hesiod — B1a, C10, -700
+3. Thales of Miletus — B1d/B1n, C10, -624
+4. Anaximander — B1d/B1n, C10, -610
+5. Anaximenes — B1d, C10, -586
+6. Pythagoras — B1d/B1n/B1m, C10, -570
+7. Heraclitus — B1d, C10, -535
+8. Xenophanes — B1d/B1a, C10, -570
+9. Pindar — B1b, C10, -518
+10. Solon — B1e/B1a/B1d, C10, -638
+11. Bias of Priene — B1d/B1v, C10, -600
+12. Pittacus of Mytilene — B1e/B1d, C10, -640
+13. Cleobulus of Lindos — B1d/B1a, C10, -600
+14. Chilon of Sparta — B1d/B1e, C10, -600
+15. Periander of Corinth — B1e/B1d, C10, -627
+16. Epimenides of Crete — B1d/B1f/B1a, C10, -700
+17. Pherecydes of Syros — B1d/B1a, C10, -620
+18. Anacharsis the Scythian — B1d, C10, -600
+19. Alcman — B1b, C10, -700
+20. Archilochus — B1b, C10, -680
+21. Sappho — B1b, C10, -630
+22. Alcaeus of Mytilene — B1b, C10, -620
+23. Simonides of Ceos — B1b, C10, -556
+24. Theognis of Megara — B1b, C10, -600
+25. Tyrtaeus — B1b, C10, -700
+26. Vyasa — B1a/B1f, C13, -1500
+27. Valmiki — B1a/B1f, C13, -1500
+28. Kapila — B1d/B1f, C13, -600
+29. Yajnavalkya — B1d/B1f, C13, -800
+30. Ashtavakra — B1d/B1f, C13, -800
+31. Gargi Vachaknavi — B1d, C13, -700
+32. Uddalaka Aruni — B1d, C13, -700
+33. Shvetaketu — B1d, C13, -700
+34. Kanada — B1d, C13, -600
+35. Pāṇini — B1p/B1d, C13, -400
+36. Confucius — B1d/B1y, C6, -551
+37. Laozi — B1d/B1f, C6, -600
+38. Mozi — B1d, C6, -500
+39. Sunzi — B1t/B1d, C6, -500
+40. Guan Zhong — B1e/B1d, C6, -725
+41. Yan Ying — B1d/B1e, C6, -578
+42. Boyi and Shuqi — B1d/B1x, C6, -1100
+43. Zengzi — B1d/B1y, C6, -505
+44. Zi Gong — B1d/B1e, C6, -520
+45. Shen Nong — B1f/B1g, C6, -3000
+46. Hammurabi — B1e/B1d, C13, -1810
+47. Zoroaster — B1f/B1d, C13, -1000
+48. Nabonidus — B1e, C13, -600
+49. Enheduanna — B1b/B1f, C13, -2285
+50. Ptahhotep — B1d/B1e, C13, -2400
+51. Amenemope — B1d, C13, -1300
+52. Ahiqar — B1d/B1f, C13, -700
+53. Sennacherib — B1e, C13, -740
+54. Ashurbanipal — B1e/B1p, C13, -685
+55. Cyrus the Great — B1e/B1d, C13, -600
+56. Moses — B1f/B1d/B1e, C13, -1400
+57. David — B1f/B1e/B1a, C13, -1040
+58. Solomon — B1f/B1e/B1d, C13, -990
+59. Isaiah — B1f, C13, -700
+60. Jeremiah — B1f, C13, -650
+61. Amos — B1f, C13, -780
+62. Hosea — B1f, C13, -750
+63. Micah — B1f, C13, -740
+64. Ezekiel — B1f, C13, -622
+65. Job — B1a, C13, -2000
+66. Aesop — B1a/B1w, C10, -620
+67. Orpheus — B1f/B1b, C10, -1200
+68. Zalmoxis — B1f/B1d, C13, -1100
+69. Numa Pompilius — B1e/B1f, C9, -753
+70. Lycurgus of Sparta — B1e/B1d, C10, -800
+71. Anaxagoras — B1d, C10, -500
+72. Sibyl of Cumae — B1f/B1d, C10, -800
+73. Hermes Trismegistus — B1d/B1f, C13, -200
+74. Hesychius of Miletus — B1p/B1a, C10, -490
+75. Abaris the Hyperborean — B1f/B1d, C10, -800
+76. Melissus of Samos — B1d, C10, -500
+77. Anaxagoras — B1d, C10, -500
+78. Leucippus — B1d, C10, -500
+79. Democritus — B1d/B1n, C10, -460
+80. Lasus of Hermione — B1b, C10, -500
+81. Stesichorus — B1b, C10, -640
+82. Ibycus — B1b, C10, -530
+83. Mimnermus — B1b, C10, -650
+84. Hipponax — B1b, C10, -540
+85. Xenophanes — B1d/B1b, C10, -570
+86. Callinus of Ephesus — B1b, C10, -700
+87. Cleisthenes — B1e, C10, -570
+88. Themistocles — B1e/B1t, C10, -524
+89. Aristagoras of Miletus — B1e, C10, -520
+90. Hecataeus of Miletus — B1p/B1a, C10, -550
+91. Cadmus of Miletus — B1a, C10, -550
+92. Phocylides of Miletus — B1b, C10, -546
+93. Hermodorus — B1d, C10, -510
+94. Onomacritus — B1a/B1f, C10, -530
+95. Lycurgus of Athens — B1e, C10, -390
+96. Bharadvaja — B1f/B1d, C13, -1200
+97. Vashistha — B1f/B1d, C13, -1500
+98. Atri — B1f, C13, -1500
+99. Agastya — B1f/B1d, C13, -1500
+100. Apastamba — B1f/B1d, C13, -600
+101. Baudhayana — B1f/B1d, C13, -500
+102. Jaimini — B1f/B1d, C13, -500
+103. Dirghatamas — B1f/B1b, C13, -1000
+104. Kakshivat — B1b/B1f, C13, -1000
+105. Medhatithi Gautama — B1f/B1d, C13, -1000
+106. Shaunaka — B1f/B1d, C13, -500
+107. Tittiri — B1f/B1d, C13, -500
+108. Sandilya — B1f/B1d, C13, -500
+109. Raikva — B1d/B1f, C13, -1000
+110. Ajatashatru — B1e, C13, -500
+111. Bo Yi — B1d/B1x, C6, -2000
+112. Shu Qi — B1d/B1x, C6, -2000
+113. Ji Dan — B1d/B1e, C6, -1000
+114. King Wen of Zhou — B1e/B1f, C6, -1000
+115. King Wu of Zhou — B1e/B1f, C6, -1000
+116. Li Er — B1d/B1f, C6, -1000
+117. Confucius's disciples — B1d/B1y, C6, -1000
+118. Ximen Bao — B1e/B1g, C6, -1000
+119. Shen Dao — B1d, C6, -1000
+120. Lü Buwei — B1e/B1p, C6, -1000
+121. Kong Li — B1y, C6, -1000
+122. Bo Pi — B1e, C6, -1000
+123. Yu the Great — B1e/B1f, C6, -2000
+124. Yao — B1e/B1f, C6, -2000
+125. Shun — B1e/B1f, C6, -2000
+126. Imhotep — B1g/B1d/B1f, C13, -1000
+127. Khufu — B1e, C13, -1000
+128. Kagemni — B1d/B1e, C13, -1000
+129. Ptahshepses — B1d/B1f, C13, -1000
+130. Merikare — B1e/B1d, C13, -1000
+131. Horemheb — B1e/B1t, C13, -1000
+132. Hatshepsut — B1e, C13, -1000
+133. Tuthmosis III — B1e/B1t, C13, -1000
+134. Akhenaten — B1e/B1f/B1d, C13, -1000
+135. Nefertiti — B1e, C13, -1000
+136. Lugalzagesi — B1e, C13, -1000
+137. Gudea of Lagash — B1e/B1f, C13, -1000
+138. Ur-Nammu — B1e, C13, -1000
+139. Ishbi-Erra — B1e, C13, -1000
+140. Tudiya — B1e, C13, -1000
+141. Tushratta — B1e, C13, -1000
+142. Idrimi of Alalakh — B1e, C13, -1000
+143. Suppiluliuma I — B1e/B1t, C13, -1000
+144. Esarhaddon — B1e, C13, -1000
+145. Tiglath-Pileser I — B1e/B1t, C13, -1000
+146. Elijah — B1f, C13, -1000
+147. Elisha — B1f, C13, -1000
+148. Nathan the Prophet — B1f, C13, -1000
+149. Samuel — B1f/B1e, C13, -1000
+150. Deborah — B1f/B1e, C13, -1000
+151. Gideon — B1f/B1e, C13, -1200
+152. Jephthah — B1f/B1e, C13, -1200
+153. Ruth — B1a/B1f, C13, -1200
+154. Balaam — B1f, C13, -1200
+155. Enoch — B1f, C13, -1200
+1. Socrates — B1d, C10, -470
+2. Plato — B1d/B1a, C10, -428
+3. Aristotle — B1d/B1g/B1p, C10, -384
+4. Epicurus — B1d, C10, -341
+5. Zeno of Citium — B1d, C10, -334
+6. Diogenes of Sinope — B1d, C10, -412
+7. Pyrrho of Elis — B1d, C10, -360
+8. Epictetus — B1d, C10, 55
+9. Cleanthes — B1d, C10, -330
+10. Chrysippus — B1d, C10, -279
+11. Plotinus — B1d, C10, 204
+12. Proclus — B1d, C10, 412
+13. Anaxagoras — B1d, C10, -500
+14. Heraclitus — B1d, C10, -535
+15. Parmenides — B1d, C10, -515
+16. Democritus — B1d/B1n, C10, -460
+17. Thales — B1d/B1n, C10, -624
+18. Empedocles — B1d, C10, -495
+19. Xenophanes — B1d/B1b, C10, -570
+20. Antisthenes — B1d, C10, -445
+21. Herodotus — B1l/B1a, C10, -484
+22. Thucydides — B1l/B1a, C10, -460
+23. Xenophon — B1l/B1a/B1d/B1e, C10, -430
+24. Polybius — B1l, C10, -200
+25. Plutarch — B1l/B1a/B1d, C10, 46
+26. Lucian of Samosata — B1a/B1w/B1d, C10, 125
+27. Aelian — B1a/B1l, C10, 175
+28. Arrian — B1l/B1a, C10, 86
+29. Longinus — B1a/B1k, C10, 213
+30. Dio Chrysostom — B1d/B1x, C10, 40
+31. Callimachus — B1b/B1a/B1p, C10, -310
+32. Theocritus — B1b, C10, -300
+33. Menander — B1a, C10, -342
+34. Apollonius of Rhodes — B1a/B1b, C10, -295
+35. Aeschylus — B1a, C10, -525
+36. Sophocles — B1a, C10, -497
+37. Euripides — B1a, C10, -480
+38. Aristophanes — B1a/B1w, C10, -446
+39. Hesiod — B1a, C10, -750
+40. Pindar — B1b, C10, -518
+41. Marcus Aurelius — B1d/B1e, C9, 121
+42. Seneca the Younger — B1d/B1a, C9, -4
+43. Cicero — B1e/B1d/B1a/B1v, C9, -106
+44. Lucretius — B1d/B1a, C9, -99
+45. Pliny the Elder — B1g/B1a/B1p, C9, 23
+46. Pliny the Younger — B1a/B1p, C9, 61
+47. Quintilian — B1y/B1a/B1k, C9, 35
+48. Boethius — B1d/B1p, C9, 480
+49. Gaius Musonius Rufus — B1d, C9, 25
+50. Macrobius — B1p/B1a, C9, 400
+51. Virgil — B1a, C9, 70
+52. Ovid — B1a, C9, 43
+53. Horace — B1a, C9, 65
+54. Catullus — B1a, C9, 84
+55. Propertius — B1a, C9, 50
+56. Tibullus — B1a, C9, 55
+57. Juvenal — B1a/B1w, C9, 55
+58. Martial — B1a/B1w, C9, 38
+59. Petronius — B1a/B1w, C9, 27
+60. Apuleius — B1a/B1f/B1d, C9, 124
+61. Confucius — B1d/B1y, C6, -551
+62. Laozi — B1d/B1f, C6, -604
+63. Zhuangzi — B1d/B1f, C6, -369
+64. Mozi — B1d, C6, -470
+65. Mencius — B1d/B1y, C6, -372
+66. Han Feizi — B1d, C6, -280
+67. Xunzi — B1d, C6, -313
+68. Sun Tzu — B1t/B1d, C6, -544
+69. Ban Zhao — B1a/B1y, C6, 45
+70. Dong Zhongshu — B1d/B1f, C6, -179
+71. Vyasa — B1a/B1f, C13, -1500
+72. Valmiki — B1a/B1f, C13, -500
+73. Patanjali — B1d/B1f/B1p, C13, -200
+74. Nagarjuna — B1d/B1f, C13, 150
+75. Ashvaghosha — B1a/B1f, C13, 80
+76. Vatsyayana — B1d, C13, 300
+77. Bhartrihari — B1a/B1d/B1f, C13, 570
+78. Aryabhata — B1n/B1g, C13, 476
+79. Charaka — B1g/B1p, C13, -300
+80. Manu — B1f/B1d, C13, -100
+81. Origen — B1f/B1d, C9, 184
+82. Tertullian — B1f/B1d, C9, 155
+83. Clement of Alexandria — B1f/B1d, C10, 150
+84. Augustine of Hippo — B1f/B1d/B1a, C9, 354
+85. Ambrose of Milan — B1f/B1d, C9, 339
+86. Jerome — B1f/B1p, C9, 347
+87. Gregory of Nazianzus — B1f/B1d, C10, 329
+88. Basil of Caesarea — B1f/B1d, C10, 330
+89. John Chrysostom — B1f/B1d, C10, 349
+90. Lactantius — B1f/B1d, C9, 250
+91. Zoroaster — B1f/B1d, C13, -1000
+92. Mani — B1f/B1d, C13, 216
+93. Philo of Alexandria — B1d/B1f, C10, -20
+94. Josephus — B1l/B1f, C13, 37
+95. Plotinus — B1d, C10, 204
+96. Soranus of Ephesus — B1g, C10, 98
+97. Galen — B1g/B1p, C10, 129
+98. Aesop — B1a/B1w, C10, -620
+99. Hypatia of Alexandria — B1d/B1n/B1g, C10, 370
+100. Julian the Apostate — B1e/B1d/B1f, C10, 331
+101. Anaximenes — B1d, C10, -586
+102. Anaximander — B1d, C10, -610
+103. Archelaus — B1d, C10, -450
+104. Philolaus — B1d/B1n, C10, -470
+105. Hippocrates — B1g/B1p, C10, -460
+106. Galen — B1g/B1p, C10, 129
+107. Theophrastus — B1d/B1g, C10, -371
+108. Diodorus Cronus — B1d, C10, -365
+109. Philo of Larissa — B1d, C10, -154
+110. Sextus Empiricus — B1d, C10, 160
+111. Timon of Phlius — B1d/B1a, C10, -320
+112. Metrodorus of Lampsacus — B1d, C10, -331
+113. Bion of Borysthenes — B1d/B1x, C10, -325
+114. Aristippus — B1d, C10, -435
+115. Cleomenes — B1e, C10, -190
+116. Posidonius — B1d/B1g/B1p, C10, -135
+117. Eudoxus of Cnidus — B1d/B1n/B1g, C10, -395
+118. Simplicius of Cilicia — B1d/B1p, C10, 490
+119. Porphyry — B1d/B1p, C10, 234
+120. Damascius — B1d, C10, 458
+121. Isocrates — B1v/B1a/B1x, C10, -436
+122. Aeschines — B1v/B1a, C10, -389
+123. Alcidamas — B1v/B1a, C10, -420
+124. Gorgias of Leontini — B1v/B1a/B1d, C10, -485
+125. Prodicus — B1d/B1a, C10, -465
+126. Hermogenes of Tarsus — B1k/B1a, C10, 160
+127. Libanius — B1v/B1a/B1y, C10, 314
+128. Philostratus — B1a/B1l, C10, 170
+129. Aelius Aristides — B1v/B1a/B1x, C10, 117
+130. Theon of Smyrna — B1d/B1n, C10, 70
+131. Pausanias — B1l, C10, 110
+132. Strabo — B1l/B1g/B1a, C10, -64
+133. Dionysius of Halicarnassus — B1l/B1a, C10, -60
+134. Meleager of Gadara — B1b/B1a, C10, -140
+135. Nonnus of Panopolis — B1a/B1b, C10, 345
+136. Claudius Ptolemy — B1n/B1g/B1p, C10, 100
+137. Hipparchus — B1n/B1g, C10, -190
+138. Archimedes — B1n/B1g/B1i, C10, -287
+139. Hero of Alexandria — B1g/B1n/B1i, C10, 10
+140. Pappus of Alexandria — B1n/B1g, C10, 290
+141. Kanada — B1d, C13, -600
+142. Panini — B1p/B1d, C13, -520
+143. Pingala — B1n/B1p, C13, -300
+144. Bhāskara I — B1n/B1g, C13, 600
+145. Uddalaka Aruni — B1d, C13, -800
+146. Jaimini — B1d/B1f, C13, -500
+147. Asanga — B1d/B1f, C13, 300
+148. Vasubandhu — B1d/B1f, C13, 300
+149. Bhartṛhari — B1a/B1d/B1p, C13, 300
+150. Kautilya — B1e/B1d/B1p, C13, -200
+151. Bharata Muni — B1a/B1d/B1f, C13, -200
+152. Bhadanta Nagarjuna — B1d/B1f, C13, 300
+153. Vasishtha — B1f/B1d, C13, -1000
+154. Badarayana — B1d/B1f, C13, -200
+155. Gaudapada — B1d/B1f, C13, 300
+156. Medhatithi — B1p/B1d, C13, 300
+157. Vamana — B1p/B1d, C13, 300
+158. Sudraka — B1a, C13, -200
+159. Dandin — B1a/B1p, C13, 300
+160. Shankara — B1d/B1f, C13, 300
+161. Wang Chong — B1d, C6, 200
+162. Zhang Heng — B1g/B1n/B1a, C6, 200
+163. Sima Qian — B1l/B1a, C6, -200
+164. Ban Gu — B1l/B1a, C6, 200
+165. Cao Zhi — B1b/B1a, C6, 200
+166. Cao Cao — B1e/B1a/B1v, C6, 200
+167. Tao Qian — B1a/B1b, C6, 200
+168. Ji Kang — B1d/B1a/B1x, C6, 200
+169. Liu An — B1d/B1e, C6, -200
+170. Huan Tan — B1d/B1a, C6, 200
+171. Yang Xiong — B1d/B1a/B1p, C6, 200
+172. Guo Xiang — B1d, C6, 300
+173. Liu Xiang — B1l/B1a/B1p, C6, -200
+174. Zuo Qiuming — B1l/B1a, C6, -200
+175. Fu Xuan — B1a/B1b, C6, 200
+176. Wang Bi — B1d/B1p, C6, 300
+177. He Yan — B1d, C6, 300
+178. Zhang Zai — B1d, C6, 300
+179. Yan Hui — B1d/B1y, C6, -200
+180. Gongsun Long — B1d, C6, -200
+181. Albinus — B1d, C10, 150
+182. Celsus — B1d/B1x, C10, 150
+183. Numenius of Apamea — B1d, C10, 150
+184. Bardaisan — B1d/B1f, C13, 300
+185. Mani — B1d/B1f, C13, 300
+186. Aphrahat — B1f/B1d, C13, 300
+187. Ephrem the Syrian — B1f/B1a, C13, 300
+188. Jacob of Nisibis — B1f, C13, 300
+189. Melito of Sardis — B1f, C10, 150
+190. Irenaeus of Lyons — B1f/B1d, C9, 130
+191. Hippolytus of Rome — B1f/B1d, C9, 170
+192. Novatian — B1f/B1d, C9, 200
+193. Arnobius — B1f/B1d, C9, 250
+194. Methodius of Olympus — B1f/B1d, C10, 290
+195. Eusebius of Caesarea — B1f/B1l/B1p, C10, 260
+196. Athenagoras of Athens — B1f/B1d, C10, 150
+197. Theophilus of Antioch — B1f/B1d, C10, 150
+198. Alexander of Aphrodisias — B1d, C10, 150
+199. Rabbi Akiva — B1f/B1d, C13, 50
+200. Rabbi Hillel — B1f/B1d, C13, 50
+1. Boethius — B1d/B1p/B1a, C9, 480
+2. Isidore of Seville — B1p/B1d/B1a, C9, 560
+3. Bede the Venerable — B1p/B1l/B1a/B1f, C9, 672
+4. Gregory the Great — B1f/B1d/B1a, C9, 540
+5. Maximus the Confessor — B1f/B1d, C10, 580
+6. John of Damascus — B1f/B1d/B1a, C10, 675
+7. Anselm of Canterbury — B1f/B1d/B1a, C9, 1033
+8. Alcuin of York — B1p/B1a/B1y, C9, 735
+9. Benedict of Nursia — B1f/B1d, C9, 480
+10. Cassiodorus — B1p/B1a/B1d, C9, 485
+11. Ambrosius Autpertus — B1f/B1a, C9, 730
+12. Smaragdus of Saint-Mihiel — B1f/B1p, C9, 800
+13. Julian of Toledo — B1f/B1p, C9, 642
+14. Ildefonsus of Toledo — B1f/B1a, C9, 607
+15. Ennodius of Pavia — B1f/B1a, C9, 473
+16. Florus of Lyon — B1p/B1a, C9, 810
+17. Hincmar of Reims — B1f/B1p/B1a, C9, 806
+18. Paschasius Radbertus — B1f/B1d/B1a, C9, 785
+19. Ratramnus of Corbie — B1f/B1d/B1a, C9, 800
+20. Hrabanus Maurus — B1f/B1p/B1a, C9, 780
+21. Cuthbert of Lindisfarne — B1f, C9, 634
+22. Columbanus — B1f/B1a, C9, 540
+23. John Climacus — B1f/B1d, C10, 579
+24. Isaac of Nineveh — B1f/B1d, C13, 613
+25. Symeon the Stylite — B1f, C10, 390
+26. Guthlac of Crowland — B1f, C9, 673
+27. Romuald of Ravenna — B1f, C9, 951
+28. Benedict Biscop — B1f/B1y, C9, 628
+29. Æthelwold of Winchester — B1f/B1y, C9, 908
+30. Willibrord — B1f, C9, 658
+31. Venantius Fortunatus — B1a/B1f, C9, 530
+32. Aldhelm of Malmesbury — B1a/B1f/B1y, C9, 639
+33. Cynewulf — B1a, C9, 770
+34. The author of *Beowulf* — B1a, C9, 700
+35. The author of *The Dream of the Rood* — B1a, C9, 700
+36. The author of *The Seafarer* — B1a, C9, 700
+37. The author of *The Wanderer* — B1a, C9, 700
+38. Paul the Deacon — B1l/B1a, C9, 720
+39. Sedulius Scottus — B1a/B1p, C9, 810
+40. Hrabanus Maurus — B1f/B1p/B1a, C9, 780
+41. Paulus Diaconus — B1l/B1a, C9, 720
+42. Fredegar — B1l/B1a, C9, 620
+43. Einhard — B1l/B1a/B1e, C9, 770
+44. Notker Balbulus — B1a/B1f, C9, 840
+45. Dhuoda — B1a/B1y, C9, 803
+46. Nithard — B1l/B1e, C9, 800
+47. Agnellus of Ravenna — B1l, C9, 800
+48. Theophanes the Confessor — B1l/B1f, C10, 900
+49. Theophylact Simocatta — B1l/B1a, C10, 900
+50. Michael the Syrian — B1l/B1f, C13, 1200
+51. Charlemagne — B1e/B1y, C9, 800
+52. Alfred the Great — B1e/B1y/B1a, C9, 800
+53. Theodoric the Great — B1e, C9, 700
+54. Justinian I — B1e/B1p, C10, 700
+55. Heraclius — B1e, C10, 800
+56. Liutprand of Cremona — B1e/B1a/B1l, C9, 800
+57. Louis the Pious — B1e, C9, 800
+58. Charles the Bald — B1e, C9, 800
+59. Otto I — B1e, C9, 800
+60. Basil II — B1e, C10, 900
+61. Photios I of Constantinople — B1f/B1p/B1d, C10, 900
+62. Michael Psellos — B1d/B1p/B1a, C10, 900
+63. John Philoponus — B1d/B1g/B1p, C10, 700
+64. George Syncellus — B1l/B1f, C10, 900
+65. Patriarch Nikephoros — B1f/B1l/B1p, C10, 900
+66. Leo the Philosopher — B1d/B1y, C10, 900
+67. Symeon Metaphrastes — B1f/B1a, C10, 900
+68. Arethas of Caesarea — B1p/B1f, C10, 900
+69. Euthymius Zigabenus — B1f/B1p, C10, 900
+70. Cosmas Indicopleustes — B1g/B1f/B1a, C10, 900
+71. Al-Kindi — B1d/B1g/B1p, C13, 1200
+72. Al-Farabi — B1d/B1p, C13, 1200
+73. Saadia Gaon — B1f/B1d/B1p, C13, 1200
+74. Hunayn ibn Ishaq — B1g/B1p, C13, 1200
+75. Al-Razi — B1g/B1d/B1p, C13, 1200
+76. Thabit ibn Qurra — B1n/B1g/B1p, C13, 1200
+77. Al-Khwarizmi — B1n/B1g/B1p, C13, 1200
+78. Al-Jahiz — B1a/B1x, C13, 1200
+79. Ibn Masarra — B1d/B1f, C13, 1200
+80. Dhu al-Nun al-Misri — B1f/B1d, C13, 1200
+81. John Scotus Eriugena — B1d/B1f/B1a, C9, 800
+82. Columban — B1f/B1a, C9, 800
+83. Ailbe of Emly — B1f, C9, 700
+84. Patrick — B1f, C9, 700
+85. Brendan the Navigator — B1f, C9, 800
+86. Kevin of Glendalough — B1f, C9, 800
+87. Finnian of Clonard — B1f/B1y, C9, 800
+88. Ciarán of Clonmacnoise — B1f/B1y, C9, 800
+89. Muirchú moccu Machtheni — B1a/B1f, C9, 800
+90. Adomnán of Iona — B1a/B1f/B1l, C9, 800
+91. Gertrude of Nivelles — B1f, C9, 800
+92. Walafrid Strabo — B1a/B1f/B1y, C9, 800
+93. Lupus of Ferrières — B1a/B1p, C9, 800
+94. Amalarius of Metz — B1a/B1f/B1p, C9, 800
+95. Anskar — B1f, C9, 800
+96. Ado of Vienne — B1f/B1a/B1l, C9, 800
+97. Riculf of Soissons — B1f, C9, 800
+98. Aelfric of Eynsham — B1a/B1y/B1f, C9, 900
+99. Ælfric Bata — B1a/B1y, C9, 1000
+100. Wulfstan — B1f/B1v/B1a, C9, 1000
+101. Jonas of Bobbio — B1a/B1f/B1l, C9, 600
+102. Burchard of Würzburg — B1f, C9, 1000
+103. Amalarius of Metz — B1a/B1f/B1p, C9, 800
+104. Florentius of Valeránica — B1a/B1f, C9, 700
+105. Pirminius — B1f, C9, 700
+106. Agobard of Lyon — B1f/B1a/B1d, C9, 700
+107. Haymo of Halberstadt — B1f/B1a/B1p, C9, 800
+108. Walahfrid Strabo — B1a/B1f/B1y, C9, 800
+109. Ratpert of Saint Gall — B1a/B1f, C9, 800
+110. Servatus Lupus of Ferrières — B1a/B1p, C9, 800
+111. Eulogius of Córdoba — B1f/B1a, C9, 800
+112. Paulinus II of Aquileia — B1f/B1a/B1p, C9, 700
+113. Theodulf of Orléans — B1f/B1a/B1p, C9, 700
+114. Amalar of Metz — B1a/B1f/B1p, C9, 800
+115. John the Deacon — B1l/B1a, C9, 800
+116. Agnellus of Ravenna — B1l/B1a, C9, 800
+117. Jonas of Orleans — B1f/B1a/B1p, C9, 700
+118. Gregory of Tours — B1l/B1a/B1f, C9, 500
+119. Avitus of Vienne — B1f/B1a, C9, 500
+120. Andrew of Crete — B1f/B1a, C10, 600
+121. Barsanuphius of Gaza — B1f, C10, 500
+122. John the Dwarf — B1f, C13, 400
+123. Dorotheus of Gaza — B1f, C10, 500
+124. Anastasius of Sinai — B1f/B1d, C10, 500
+125. Hesychius of Jerusalem — B1f/B1d, C10, 500
+126. Elias of Jerusalem — B1f, C10, 500
+127. Nilus of Sinai — B1f/B1d, C10, 500
+128. Peter the Iberian — B1f/B1d, C13, 400
+129. Sophronius of Jerusalem — B1f/B1d, C10, 500
+130. Cosmas the Monk — B1f/B1a, C10, 700
+131. John Moschus — B1f/B1a, C10, 600
+132. Leontius of Byzantium — B1f/B1d, C10, 600
+133. Romanos the Melodist — B1a/B1f, C10, 500
+134. Germanus I of Constantinople — B1f/B1a, C10, 600
+135. Andrew of Caesarea — B1f/B1p, C10, 500
+136. Leo VI — B1e/B1a, C10, 800
+137. Constantine VII Porphyrogenitus — B1e/B1a/B1l, C10, 900
+138. Arethas of Caesarea — B1p/B1f, C10, 800
+139. Michael Syncellus — B1f/B1a, C10, 800
+140. Niketas Byzantios — B1d/B1f, C10, 800
+141. Al-Nazzam — B1d/B1f, C13, 800
+142. Al-Maturidi — B1f/B1d, C13, 800
+143. Abu Hanifa — B1f/B1d, C13, 700
+144. Malik ibn Anas — B1f/B1d, C13, 700
+145. Ahmad ibn Hanbal — B1f/B1d, C13, 800
+146. Abu Yusuf — B1f/B1d, C13, 731
+147. Yahya ibn Ma'in — B1f/B1p, C13, 778
+148. Ibn Qutaybah — B1a/B1p/B1f, C13, 828
+149. Ibn Sa'd — B1l/B1p, C13, 784
+150. Ibn Ishaq — B1l/B1a, C13, 704
+151. Abu Tammam — B1b/B1a, C13, 796
+152. Al-Mubarrad — B1p/B1a, C13, 826
+153. Al-Bukhari — B1f/B1p, C13, 810
+154. Muslim ibn al-Hajjaj — B1f/B1p, C13, 817
+155. Al-Tabari — B1l/B1f/B1p, C13, 839
+156. Al-Baladhuri — B1l/B1a, C13, 820
+157. Al-Kindi — B1d/B1g/B1p, C13, 801
+158. Al-Khwarizmi — B1n/B1g/B1p, C13, 780
+159. Al-Jahiz — B1a/B1x/B1p, C13, 776
+160. Ibn al-Rawandi — B1d/B1f, C13, 827
+161. Yehuda haLevi — B1f/B1a/B1d, C13, 1075
+162. Saadia Gaon — B1f/B1d/B1p, C13, 882
+163. Anan ben David — B1f/B1d, C13, 715
+164. Natronai ben Hilai — B1f/B1p, C13, 798
+165. Amram Gaon — B1f/B1p, C13, 821
+166. Sherira Gaon — B1f/B1p/B1l, C13, 906
+167. Hai Gaon — B1f/B1p/B1d, C13, 939
+168. Kalonymus ben Kalonymus — B1a/B1p/B1d, C13, 1286
+169. Pirkoi ben Baboi — B1f/B1p, C13, 800
+170. Joseph ben Samuel Bonfils — B1p/B1f, C13, 1280
+171. Clovis I — B1e, C9, 466
+172. Childebert I — B1e, C9, 511
+173. Dagobert I — B1e, C9, 603
+174. Æthelberht of Kent — B1e/B1f, C9, 550
+175. Offa of Mercia — B1e, C9, 730
+176. Charles Martel — B1e, C9, 686
+177. Bertha of Kent — B1f, C9, 539
+178. Charibert I — B1e, C9, 517
+179. Chilperic I — B1e, C9, 539
+180. Louis the Stammerer — B1e, C9, 846
+181. Tírechán — B1a/B1f, C9, 690
+182. Mo Sinu moccu Min — B1f/B1a, C9, 500
+183. Blathmac mac Con Brettan — B1a/B1f, C9, 735
+184. Fursa of Peronne — B1f, C9, 597
+185. Findbarr of Cork — B1f, C9, 550
+186. Colman of Lindisfarne — B1f/B1y, C9, 605
+187. Dallán Forgaill — B1b/B1f, C9, 530
+188. Fiacc — B1b/B1f, C9, 415
+189. Mac Nisse of Connor — B1f, C9, 440
+190. Mochta of Louth — B1f, C9, 435
+191. The author of *The Battle of Maldon* — B1a, C9, 956
+192. The scribe of the *Lindisfarne Gospels* — B1a/B1y/B1f, C9, 678
+193. The compiler of the *Book of Kells* — B1a/B1f/B1y, C9, 800
+194. The redactor of the *Anglo-Saxon Chronicle* — B1a/B1l, C9, 890
+195. The compiler of the *Book of Durrow* — B1a/B1f, C9, 650
+196. Anonymous Carolingian court poet — B1a, C9, 800 
+197. The Latin translator of *Physiologus* — B1a/B1p, C9, 800 
+198. Anonymous Byzantine hymnographer — B1a/B1f, C10, 900 
+199. Scribe of the *Codex Amiatinus* — B1a/B1y/B1f, C9, 800 
+200. Anonymous author of *The Life of Cuthbert* — B1a/B1f/B1l, C9, 800 
+1. Anselm of Canterbury — B1d/B1f/B1a, C9, 1000 
+2. Peter Abelard — B1d/B1a/B1f, C9, 1000 
+3. Bernard of Clairvaux — B1f/B1d/B1a, C9, 1000 
+4. Hugh of Saint Victor — B1d/B1f/B1p, C9, 1000 
+5. Richard of Saint Victor — B1d/B1f, C9, 1000 
+6. Hildegard of Bingen — B1f/B1a/B1g, C9, 1000 
+7. Thomas Aquinas — B1d/B1f/B1p, C9, 1000 
+8. Bonaventure — B1d/B1f, C9, 1000 
+9. Albertus Magnus — B1d/B1g/B1f/B1p, C9, 1000 
+10. Duns Scotus — B1d/B1f, C9, 1000 
+11. William of Saint-Thierry — B1f/B1d, C9, 1000 
+12. Aelred of Rievaulx — B1f/B1a, C9, 1000 
+13. Joachim of Fiore — B1f/B1d, C9, 1000 
+14. Alexander of Hales — B1d/B1f, C9, 1000 
+15. Eriugena — B1d/B1f/B1a, C9, 800 
+16. Peter Lombard — B1d/B1f, C9, 1000 
+17. Alan of Lille — B1d/B1f/B1a, C9, 1000 
+18. Vincent of Beauvais — B1p/B1a, C9, 1000 
+19. Ramon Llull — B1d/B1a/B1f/B1x, C9, 1000 
+20. Nicholas of Amiens — B1d/B1a, C9, 1000 
+21. Avicenna — B1d/B1g/B1f/B1p, C13, 1200 
+22. Al-Ghazali — B1d/B1f/B1a, C13, 1200 
+23. Al-Farabi — B1d/B1p, C13, 1200 
+24. Averroes — B1d/B1f/B1p, C13, 1200 
+25. Al-Biruni — B1g/B1n/B1p, C13, 1200 
+26. Omar Khayyam — B1b/B1n/B1d, C13, 1200 
+27. Fakhr al-Din al-Razi — B1d/B1f/B1p, C13, 1200 
+28. Nasir al-Din al-Tusi — B1d/B1g/B1p, C13, 1200 
+29. Ibn Tufayl — B1d/B1f/B1a, C13, 1200 
+30. Ibn al-Arabi — B1d/B1f/B1a, C13, 1200 
+31. Al-Suhrawardi — B1d/B1f, C13, 1200 
+32. Al-Khazini — B1g/B1n, C13, 1200 
+33. Al-Zahrawi — B1g, C13, 1200 
+34. Al-Samarkandi — B1g/B1n, C13, 1200 
+35. Al-Kindi — B1d/B1g/B1p, C13, 1200 
+36. Abu Ma’shar al-Balkhi — B1g/B1d, C13, 1200 
+37. Ibn Bajjah — B1d/B1f/B1g, C13, 1200 
+38. Ibn al-Nafis — B1g/B1d/B1p, C13, 1200 
+39. Qadi Iyad — B1f/B1p/B1d, C13, 1200 
+40. Al-Shahrastani — B1d/B1f/B1p, C13, 1200 
+41. Saadia Gaon — B1f/B1d/B1p, C13, 1200 
+42. Solomon ibn Gabirol — B1d/B1a/B1f, C13, 1200 
+43. Bahya ibn Paquda — B1d/B1f, C13, 1200 
+44. Moses ibn Ezra — B1b/B1a/B1f, C13, 1200 
+45. Abraham ibn Ezra — B1a/B1n/B1f, C13, 1200 
+46. Judah Halevi — B1f/B1b/B1a/B1d, C13, 1075
+47. Moses Maimonides — B1d/B1f/B1g/B1p, C13, 1135
+48. Nachmanides — B1f/B1d/B1a, C13, 1194
+49. Jonah Gerondi — B1f/B1d, C13, 1200
+50. Samuel ibn Naghrillah — B1e/B1f/B1a/B1d, C13, 993
+51. Gersonides — B1d/B1n/B1p, C13, 1288
+52. Joseph Kimhi — B1a/B1p, C13, 1105
+53. Abraham bar Hiyya — B1d/B1n/B1p, C13, 1070
+54. Isaac Israeli the Younger — B1d/B1f, C13, 1169
+55. Joseph ibn Tzaddik — B1d/B1f, C13, 1075
+56. Abraham ibn Daud — B1d/B1f/B1l, C13, 1110
+57. Eleazar of Worms — B1f/B1d/B1a, C13, 1176
+58. Kalonymus family — B1f/B1a/B1p, C13, 1130
+59. Isaac the Blind — B1f/B1d, C13, 1165
+60. Meir of Rothenburg — B1f/B1p/B1a, C13, 1215
+61. Chrétien de Troyes — B1a, C9, 1135
+62. Marie de France — B1a/B1b, C9, 1150
+63. Wolfram von Eschenbach — B1a/B1b, C9, 1160
+64. Hartmann von Aue — B1a/B1b, C9, 1160
+65. Gottfried von Strassburg — B1a, C9, 1180
+66. Heinrich von Veldeke — B1a/B1b, C9, 1150
+67. Peire Vidal — B1b, C9, 1183
+68. Arnaut Daniel — B1b, C9, 1180
+69. Jaufré Rudel — B1b, C9, 1125
+70. Bernart de Ventadorn — B1b, C9, 1125
+71. Raimbaut d'Aurenga — B1b, C9, 1140
+72. Bertran de Born — B1b/B1e, C9, 1140
+73. Guiraut de Bornelh — B1b, C9, 1138
+74. William IX of Aquitaine — B1e/B1b, C9, 1071
+75. Thibaut IV of Champagne — B1e/B1b, C9, 1201
+76. Walther von der Vogelweide — B1b, C9, 1170
+77. Neidhart von Reuental — B1b, C9, 1180
+78. Blondel de Nesle — B1b, C9, 1175
+79. Giraut de Calanso — B1b, C9, 1191
+80. Marcabru — B1b, C9, 1110
+81. Otto of Freising — B1l/B1f/B1e, C9, 1114
+82. Geoffrey of Monmouth — B1l/B1a, C9, 1100
+83. William of Malmesbury — B1l/B1a, C9, 1090
+84. Matthew Paris — B1l/B1a/B1f, C9, 1200
+85. Ralph of Diceto — B1l/B1f, C9, 1120
+86. John of Salisbury — B1d/B1a/B1f, C9, 1115
+87. Roger of Hoveden — B1l/B1f, C9, 1150
+88. Burchard of Worms — B1f/B1p/B1d, C9, 950
+89. Gratian — B1p/B1d/B1f, C9, 1095
+90. Isidore of Seville — B1p/B1d/B1a/B1f, C9, 560
+91. Ibn Khaldun — B1d/B1l/B1p, C13, 1332
+92. Suger of Saint-Denis — B1f/B1e/B1a, C9, 1081
+93. Al-Masudi — B1l/B1g, C13, 896
+94. Usama ibn Munqidh — B1a/B1l/B1t, C13, 1095
+95. Henry of Huntingdon — B1l/B1a, C9, 1088
+96. Adhemar of Chabannes — B1l/B1f, C9, 989
+97. William of Tyre — B1l/B1f, C9, 1130
+98. Ibn Jubayr — B1l/B1a/B1t, C13, 1145
+99. Abu Hamid al-Gharnati — B1l/B1a/B1f, C13, 1080
+100. Gerald of Wales — B1l/B1a, C9, 1146
+101. William of Conches — B1d/B1a, C9, 1090
+102. Adelard of Bath — B1d/B1g/B1p, C9, 1080
+103. Thierry of Chartres — B1d/B1p, C9, 1095
+104. John of Salisbury — B1d/B1a/B1f, C9, 1120
+105. Stephen Langton — B1f/B1d/B1a, C9, 1150
+106. Peter of Blois — B1a/B1f/B1d, C9, 1135
+107. William of Auvergne — B1d/B1f, C9, 1180
+108. Simon of Tournai — B1d, C9, 1130
+109. Robert Grosseteste — B1d/B1g/B1f/B1p, C9, 1175
+110. Roger Bacon — B1d/B1g/B1p, C9, 1214
+111. John Pecham — B1d/B1f, C9, 1230
+112. Siger of Brabant — B1d, C9, 1240
+113. Richard Fishacre — B1d/B1f, C9, 1200
+114. William of Sherwood — B1d/B1p, C9, 1190
+115. Lambert of Auxerre — B1p/B1d, C9, 1210
+116. Giles of Rome — B1d/B1f, C9, 1243
+117. Thomas of York — B1d/B1f, C9, 1220
+118. Godfrey of Fontaines — B1d, C9, 1250
+119. William of Moerbeke — B1p/B1y/B1a, C9, 1215
+120. Adam of Balsham — B1d/B1y, C9, 1100
+121. Gertrude of Helfta — B1f/B1a, C9, 1256
+122. Mechthild of Magdeburg — B1f/B1a, C9, 1207
+123. Hadewijch of Brabant — B1f/B1a/B1b, C9, 1200
+124. Christina of Markyate — B1f, C9, 1096
+125. Elisabeth of Schönau — B1f/B1a, C9, 1129
+126. Ida of Nivelles — B1f, C9, 1195
+127. Rupert of Deutz — B1f/B1d/B1a, C9, 1075
+128. William of St. Thierry — B1f/B1d/B1a, C9, 1085
+129. Bruno of Cologne — B1f, C9, 1030
+130. Guigo II the Carthusian — B1f/B1a, C9, 1083
+131. John of Fécamp — B1f/B1a, C9, 990
+132. Peter the Venerable — B1f/B1a/B1d, C9, 1092
+133. Isaac of Stella — B1f/B1d/B1a, C9, 1100
+134. Thomas Gallus — B1f/B1d, C9, 1200
+135. Baldwin of Ford — B1f/B1a, C9, 1125
+136. Stephen Harding — B1f/B1y, C9, 1060
+137. William of Malavalle — B1f, C9, 1111
+138. Vitalis of Savigny — B1f/B1y, C9, 1060
+139. Mary of Oignies — B1f/B1a, C9, 1177
+140. Hildegard of Bingen — B1f/B1a/B1g, C9, 1098
+141. Ibn Hazm — B1f/B1d/B1a, C13, 994
+142. Al-Mawardi — B1f/B1d/B1e, C13, 972
+143. Ibn Qudamah — B1f/B1d, C13, 1147
+144. Al-Karaji — B1n/B1g, C13, 953
+145. Al-Zamakhshari — B1p/B1f/B1d, C13, 1075
+146. Al-Juwayni — B1f/B1d, C13, 1028
+147. Al-Nasafi — B1f/B1d, C13, 1067
+148. Abu Hamid al-Ghazali — B1d/B1f/B1a, C13, 1058
+149. Ibn Tumart — B1f/B1d, C13, 1080
+150. Fakhr al-Islam al-Bazdawi — B1f/B1d/B1p, C13, 1010
+151. Al-Raghib al-Isfahani — B1f/B1p/B1d, C13, 1024
+152. Ibn al-Jawzi — B1f/B1d/B1p, C13, 1116
+153. Al-Baydawi — B1f/B1d/B1p, C13, 1218
+154. Al-Qushayri — B1f/B1d/B1a, C13, 986
+155. Ibn Khalaf al-Muradi — B1g/B1i, C13, 1079
+156. Ibn Qutaybah — B1a/B1p/B1f, C13, 828
+157. Ibn 'Asakir — B1l/B1f, C13, 1105
+158. Ibn Daniyal — B1a/B1w, C13, 1248
+159. Ibn Nubata — B1a/B1b, C13, 1287
+160. Ibn Khallikan — B1l/B1a, C13, 1211
+161. Isaac ben Jacob Alfasi — B1f/B1p, C13, 1013
+162. Maimonides — B1d/B1f/B1g/B1p, C13, 1138
+163. Abraham Maimonides — B1f/B1d/B1p, C13, 1186
+164. Isaac Abarbanel — B1d/B1f/B1a/B1e, C13, 1437
+165. Abraham ben David of Posquières — B1f/B1d, C13, 1125
+166. David Kimhi — B1p/B1a/B1f, C13, 1160
+167. Samuel ben Meir — B1f/B1p, C13, 1085
+168. Eliezer of Worms — B1f/B1d/B1a, C13, 1176
+169. Yehuda he-Hasid — B1f/B1a, C13, 1150
+170. Jacob ben Asher — B1f/B1p, C13, 1270
+171. Isaac of Acre — B1f/B1d, C13, 1250
+172. Meshullam da Volterra — B1a/B1e, C13, 1446
+173. Isaac ben Samuel — B1f/B1p, C13, 1090
+174. Zerahiah ha-Levi — B1p/B1f, C13, 1115
+175. Abraham ben Isaac of Narbonne — B1f/B1p, C13, 1080
+176. Joseph Bekhor Shor — B1f/B1p/B1a, C13, 1140
+177. Jacob Tam — B1f/B1p/B1a, C13, 1100
+178. Abraham bar Ḥiyya — B1d/B1n/B1p, C13, 1070
+179. Kalonymus ben Kalonymus — B1a/B1p/B1d, C13, 1287
+180. Moses de Leon — B1f/B1a/B1d, C13, 1250
+181. Michael Psellos — B1d/B1p/B1a, C10, 1018
+182. John Italus — B1d, C10, 1025
+183. Eustratius of Nicaea — B1d/B1f, C10, 1050
+184. Anna Komnene — B1a/B1l, C10, 1083
+185. Nikephoros Blemmydes — B1d/B1f/B1p, C10, 1197
+186. John Tzetzes — B1a/B1p, C10, 1110
+187. Eustathius of Thessalonica — B1p/B1f/B1a, C10, 1115
+188. Theophylact of Ohrid — B1f/B1d/B1a, C10, 1055
+189. Symeon the New Theologian — B1f/B1d/B1a, C10, 949
+190. Gregory Palamas — B1f/B1d, C10, 1296
+191. Barlaam of Calabria — B1d/B1f, C10, 1290
+192. George Akropolites — B1l/B1a, C10, 1217
+193. Nicephorus Gregoras — B1d/B1l/B1a, C10, 1295
+194. John Zonaras — B1l/B1f/B1a, C10, 1074
+195. Michael Choniates — B1f/B1a/B1l, C10, 1140
+196. Leo the Deacon — B1l/B1a, C10, 950
+197. Michael Glykas — B1a/B1l/B1f, C10, 1060
+198. Nikephoros Bryennios — B1l/B1e/B1a, C10, 1060
+199. Constantine Stilbes — B1f/B1a, C10, 1060
+200. Nicholas of Methone — B1d/B1f, C10, 1060
+1. William of Ockham — B1d/B1f/B1p, C9, 1290
+2. John Wycliffe — B1d/B1f/B1a, C9, 1330
+3. Jan Hus — B1d/B1f/B1a, C9, 1369
+4. Nicholas of Cusa — B1d/B1f/B1a/B1g, C9, 1401
+5. Meister Eckhart — B1d/B1f, C9, 1260
+6. Johannes Tauler — B1f/B1d, C9, 1300
+7. Henry Suso — B1f/B1a, C9, 1295
+8. Thomas à Kempis — B1f/B1a, C9, 1380
+9. Jean Gerson — B1d/B1f/B1a, C9, 1363
+10. Gregory of Rimini — B1d/B1f, C9, 1300
+11. Peter Auriol — B1d/B1f, C9, 1280
+12. John Duns Scotus — B1d/B1f, C9, 1266
+13. Marsilius of Padua — B1d/B1e, C9, 1275
+14. Bernardino of Siena — B1f/B1a/B1v, C9, 1380
+15. Lorenzo Valla — B1d/B1p/B1a, C9, 1407
+16. Richard Rolle — B1f/B1a, C9, 1300
+17. Walter Hilton — B1f/B1a, C9, 1340
+18. Gersonides — B1d/B1n/B1p, C13, 1288
+19. Hasdai Crescas — B1d/B1f, C13, 1340
+20. Jean Buridan — B1d/B1p, C9, 1300
+21. Dante Alighieri — B1a/B1d/B1f, C9, 1265
+22. Petrarch — B1a/B1p, C9, 1304
+23. Giovanni Boccaccio — B1a/B1l, C9, 1313
+24. Geoffrey Chaucer — B1a/B1b, C9, 1340
+25. Christine de Pizan — B1a/B1f, C9, 1364
+26. John Gower — B1a, C9, 1330
+27. François Villon — B1a/B1b, C9, 1431
+28. Juan Ruiz — B1a/B1b, C9, 1283
+29. Jacob van Maerlant — B1a/B1p, C9, 1230
+30. Snorri Sturluson — B1a/B1l, C9, 1179
+31. Robert Henryson — B1a/B1b, C9, 1425
+32. William Dunbar — B1a/B1b, C9, 1460
+33. Gavin Douglas — B1a/B1b, C9, 1475
+34. Lope de Vega — B1a/B1b/B1d, C11, 1562
+35. Jorge Manrique — B1a/B1b, C11, 1440
+36. Ausiàs March — B1b, C11, 1400
+37. Antoine de la Sale — B1a/B1w, C9, 1385
+38. Olivier de la Marche — B1a/B1l, C9, 1425
+39. Leonardo Bruni — B1a/B1p/B1e, C9, 1370
+40. Poggio Bracciolini — B1a/B1p/B1l, C9, 1380
+41. Giotto di Bondone — B1h, C9, 1267
+42. Simone Martini — B1h, C9, 1284
+43. Ambrogio Lorenzetti — B1h, C9, 1290
+44. Fra Angelico — B1h/B1f, C9, 1395
+45. Filippo Brunelleschi — B1h/B1i/B1g, C9, 1377
+46. Donatello — B1h, C9, 1386
+47. Masaccio — B1h, C9, 1401
+48. Piero della Francesca — B1h/B1n, C9, 1415
+49. Andrea Mantegna — B1h, C9, 1431
+50. Paolo Uccello — B1h/B1n, C9, 1397
+51. Sandro Botticelli — B1h, C9, 1445
+52. Hans Memling — B1h, C9, 1430
+53. Jan van Eyck — B1h, C9, 1390
+54. Rogier van der Weyden — B1h, C9, 1400
+55. Hieronymus Bosch — B1h, C9, 1450
+56. Hugo van der Goes — B1h, C9, 1440
+57. Fra Filippo Lippi — B1h/B1f, C9, 1406
+58. Benozzo Gozzoli — B1h, C9, 1421
+59. Gentile da Fabriano — B1h, C9, 1370
+60. Michelozzo — B1h/B1i, C9, 1396
+61. Nicole Oresme — B1d/B1n/B1p/B1g, C9, 1323
+62. Giovanni di Casali — B1d/B1n/B1g, C9, 1310
+63. Johannes de Muris — B1n/B1p/B1g, C9, 1290
+64. Paolo Toscanelli — B1g/B1n/B1p, C9, 1397
+65. Regiomontanus — B1n/B1g/B1p, C9, 1436
+66. Georg von Peuerbach — B1n/B1g, C9, 1423
+67. Jean de Murs — B1n/B1p/B1g, C9, 1294
+68. Levi ben Gerson — B1n/B1d/B1g, C13, 1288
+69. Al-Kashi — B1n/B1g/B1p, C13, 1380
+70. Ulugh Beg — B1n/B1g/B1p/B1e, C13, 1394
+71. Giovanni Dondi dell'Orologio — B1g/B1n/B1i, C9, 1330
+72. Johannes von Gmunden — B1n/B1g/B1p, C9, 1380
+73. Gerardus Cremonensis — B1p/B1y, C9, 1114
+74. Jabir ibn Aflah — B1n/B1g, C13, 1100
+75. Theodoric of Freiberg — B1d/B1g/B1n, C9, 1250
+76. Leonardo da Vinci — B1h/B1g/B1i/B1n/B1a, C9, 1452
+77. Luca Pacioli — B1n/B1p/B1a, C9, 1447
+78. Nicholas of Oresme — B1d/B1n/B1p/B1g, C9, 1320
+79. Henry of Langenstein — B1d/B1p/B1f, C9, 1325
+80. Robertus Anglicus — B1n/B1g/B1p, C9, 1240
+81. Niccolò Machiavelli — B1d/B1a/B1e, C9, 1469
+82. Leonardo Bruni — B1a/B1p/B1e, C9, 1370
+83. Coluccio Salutati — B1a/B1p/B1e, C9, 1331
+84. Christine de Pizan — B1a/B1f, C9, 1364
+85. John Fortescue — B1e/B1a/B1p, C9, 1394
+86. Jean de Joinville — B1l/B1a, C9, 1224
+87. Philippe de Mézières — B1a/B1f, C9, 1327
+88. Ibn Khaldun — B1d/B1l/B1p, C13, 1332
+89. Bartolus de Saxoferrato — B1e/B1p/B1d, C9, 1313
+90. Baldus de Ubaldis — B1e/B1p/B1d, C9, 1327
+91. Guillaume de Machaut — B1b/B1a/B1i, C9, 1300
+92. Desiderius Erasmus — B1a/B1d/B1f/B1x, C9, 1466
+93. Lorenzo de’ Medici — B1e/B1a/B1b, C9, 1449
+94. Juan de Mariana — B1d/B1l/B1f, C11, 1536
+95. Giannozzo Manetti — B1a/B1p/B1d, C9, 1396
+96. Marsilio Ficino — B1d/B1f/B1a/B1p, C9, 1433
+97. Pico della Mirandola — B1d/B1a/B1x, C9, 1463
+98. Aeneas Silvius Piccolomini — B1f/B1a/B1e, C9, 1405
+99. Charles d'Orléans — B1a/B1b, C9, 1394
+100. Thomas Malory — B1a, C9, 1415
+101. Angelo Poliziano — B1a/B1p, C9, 1454
+102. Marsilio Ficino — B1d/B1f/B1a/B1p, C9, 1433
+103. Giovanni Pico della Mirandola — B1d/B1a/B1x, C9, 1463
+104. Pietro Bembo — B1a/B1p/B1k, C9, 1470
+105. Cristoforo Landino — B1a/B1p/B1d, C9, 1424
+106. Leon Battista Alberti — B1a/B1h/B1i/B1p, C9, 1404
+107. Lorenzo Valla — B1d/B1p/B1a, C9, 1407
+108. Ermolao Barbaro — B1p/B1a/B1d, C9, 1454
+109. Poggio Bracciolini — B1a/B1p/B1l, C9, 1380
+110. Girolamo Savonarola — B1f/B1a/B1d, C9, 1452
+111. Richard FitzRalph — B1d/B1f, C9, 1300
+112. John of Mirecourt — B1d/B1f, C9, 1325
+113. John of Rupescissa — B1f/B1d/B1a, C9, 1310
+114. Pierre d’Ailly — B1d/B1f, C9, 1351
+115. Jacques Almain — B1d/B1f, C9, 1480
+116. Thomas Bradwardine — B1d/B1g/B1f, C9, 1300
+117. Gregory of Rimini — B1d/B1f, C9, 1300
+118. Adam Wodeham — B1d/B1f, C9, 1300
+119. John Capreolus — B1d/B1f, C9, 1380
+120. Paul of Venice — B1d/B1f, C9, 1368
+121. Julian of Norwich — B1f/B1a, C9, 1343
+122. Margery Kempe — B1f/B1a, C9, 1373
+123. Bridget of Sweden — B1f/B1a, C9, 1303
+124. Catherine of Siena — B1f/B1a, C9, 1347
+125. Catherine of Genoa — B1f/B1a, C9, 1447
+126. Raymond of Capua — B1f/B1a, C9, 1330
+127. Johannes Geiler von Kaysersberg — B1f/B1a, C9, 1445
+128. Thomas Netter — B1f/B1d, C9, 1375
+129. Dionigi di Borgo San Sepolcro — B1f/B1d, C9, 1300
+130. Ludolph of Saxony — B1f/B1a, C9, 1300
+131. Eustache Deschamps — B1b/B1a, C9, 1346
+132. Alain Chartier — B1a/B1b, C9, 1385
+133. Jean Froissart — B1l/B1a/B1b, C9, 1337
+134. Christine de Pizan — B1a/B1f, C9, 1364
+135. Leonardo Dati — B1a/B1f, C9, 1360
+136. Benedetto Accolti — B1a/B1p/B1e, C9, 1415
+137. Martin Le Franc — B1a/B1b, C9, 1410
+138. James I of Scotland — B1e/B1a/B1b, C9, 1394
+139. Gwerful Mechain — B1b, C9, 1460
+140. Ausiàs March — B1b, C11, 1400
+141. Jean Fouquet — B1h, C9, 1420
+142. Pisanello — B1h, C9, 1395
+143. Filippo Lippi — B1h/B1f, C9, 1406
+144. Antonio del Pollaiuolo — B1h/B1i, C9, 1429
+145. Andrea del Castagno — B1h, C9, 1421
+146. Domenico Ghirlandaio — B1h, C9, 1448
+147. Melozzo da Forlì — B1h, C9, 1438
+148. Luca Signorelli — B1h, C9, 1445
+149. Jean Colombe — B1h, C9, 1430
+150. Limbourg Brothers — B1h, C9, 1385
+151. Guillaume Dufay — B1i/B1a, C9, 1397
+152. John Dunstaple — B1i/B1a, C9, 1390
+153. Gilles Binchois — B1i/B1a, C9, 1400
+154. Johannes Ockeghem — B1i/B1a, C9, 1410
+155. Jacob Obrecht — B1i/B1a, C9, 1457
+156. Johannes Tinctoris — B1i/B1p/B1a, C9, 1435
+157. Antoine Busnois — B1i/B1a, C9, 1430
+158. Loyset Compère — B1i/B1a, C9, 1445
+159. Baude Cordier — B1i/B1a, C9, 1380
+160. Philippe de Vitry — B1i/B1a/B1p, C9, 1291
+161. Giovanni Bianchini — B1n/B1g/B1p, C9, 1410
+162. Gabriele Zerbi — B1g/B1p, C9, 1445
+163. Johannes Zacharias Actuarius — B1g/B1p, C10, 1275
+164. Abu al-Qasim al-Zahrawi — B1g/B1p, C13, 936
+165. Haly Abenragel — B1g/B1p, C13, 980
+166. Al-Razi — B1g/B1d/B1p, C13, 865
+167. Pietro d’Abano — B1d/B1g/B1p, C9, 1257
+168. Taddeo Alderotti — B1g/B1p/B1d, C9, 1215
+169. Paul of Aegina — B1g/B1p, C10, 625
+170. Gentile da Foligno — B1g/B1p, C9, 1290
+171. Bartolus de Saxoferrato — B1e/B1p/B1d, C9, 1313
+172. Baldus de Ubaldis — B1e/B1p/B1d, C9, 1327
+173. Panormitanus — B1e/B1p/B1f, C9, 1386
+174. Laurentius Valla — B1d/B1p/B1a, C9, 1407
+175. Giovanni da Legnano — B1e/B1p/B1d, C9, 1320
+176. Johannes Andreae — B1e/B1p/B1d, C9, 1270
+177. Pierre Dubois — B1e/B1d, C9, 1255
+178. Andrea Alciato — B1p/B1d/B1a, C9, 1492
+179. John Fortescue — B1e/B1a/B1p, C9, 1394
+180. Nicholas of Tudeschi — B1e/B1p/B1f, C9, 1386
+181. Ludovico Pontano — B1e/B1p, C9, 1409
+182. Johannes Nider — B1f/B1d/B1a, C9, 1380
+183. Bernardino of Siena — B1f/B1a/B1v, C9, 1380
+184. Giovanni Caracciolo — B1e, C9, 1372
+185. Robert of Geneva — B1f/B1e, C9, 1342
+186. Pierre d'Ailly — B1d/B1f, C9, 1351
+187. Thomas Gascoigne — B1f/B1p, C9, 1404
+188. Jean Jouffroy — B1f/B1e/B1a, C9, 1412
+189. Pierre Bersuire — B1f/B1a/B1l, C9, 1290
+190. Giles of Rome — B1d/B1f, C9, 1243
+191. Richard de Bury — B1f/B1a/B1p, C9, 1287
+192. Ibn al-Khatib — B1a/B1f/B1l, C13, 1313
+193. Manuel Chrysoloras — B1p/B1a/B1y, C10, 1350
+194. Niccolò Tignosi da Foligno — B1d/B1p, C9, 1402
+195. Paul the Venetian — B1d/B1f/B1a, C9, 1320
+196. William Caxton — B1a/B1p/B1y, C9, 1422
+197. John Mirk — B1f/B1a, C9, 1382
+198. Gerard Groote — B1f/B1a/B1y, C9, 1340
+199. Florentius Radewijns — B1f/B1a/B1y, C9, 1350
+200. Johann Heynlin — B1f/B1y/B1p, C9, 1425
+1. William of Ockham — B1d/B1f/B1p, C9, 1287
+2. Meister Eckhart — B1d/B1f, C9, 1260
+3. Nicholas of Cusa — B1d/B1f/B1g/B1a, C9, 1401
+4. Jean Gerson — B1d/B1f/B1a, C9, 1363
+5. Gregory of Rimini — B1d/B1f, C9, 1300
+6. Marsilius of Padua — B1d/B1e, C9, 1275
+7. John Wycliffe — B1d/B1f/B1a, C9, 1320
+8. Jan Hus — B1d/B1f/B1a, C9, 1372
+9. Raymond Lull — B1d/B1f/B1a/B1x, C9, 1232
+10. Richard Rolle — B1f/B1a, C9, 1300
+11. Julian of Norwich — B1f/B1a, C9, 1343
+12. Catherine of Siena — B1f/B1a, C9, 1347
+13. Thomas à Kempis — B1f/B1a, C9, 1380
+14. Giovanni Pico della Mirandola — B1d/B1a/B1x, C9, 1463
+15. Marsilio Ficino — B1d/B1f/B1a/B1p, C9, 1433
+16. Johannes Tauler — B1f/B1d, C9, 1300
+17. Heinrich Suso — B1f/B1a, C9, 1295
+18. Lorenzo Valla — B1d/B1p/B1a, C9, 1407
+19. Peter Auriol — B1d/B1f, C9, 1280
+20. Jean Buridan — B1d/B1p, C9, 1295
+21. Dante Alighieri * — B1a/B1d/B1f, C9, 1265
+22. Petrarch — B1a/B1p, C9, 1304
+23. Giovanni Boccaccio — B1a/B1l, C9, 1313
+24. Geoffrey Chaucer — B1a/B1b, C9, 1343
+25. Christine de Pizan — B1a/B1f, C9, 1364
+26. John Gower — B1a, C9, 1330
+27. Jean Froissart — B1l/B1a/B1b, C9, 1337
+28. Charles d'Orléans — B1a/B1b, C9, 1394
+29. Sir Thomas Malory — B1a, C9, 1415
+30. François Villon — B1a/B1b, C9, 1431
+31. Jacobus de Voragine — B1f/B1a/B1l, C9, 1230
+32. Juan Ruiz — B1a/B1b, C11, 1283
+33. Don Juan Manuel — B1a/B1e, C11, 1282
+34. Leonardo Bruni — B1a/B1p/B1e, C9, 1370
+35. Poggio Bracciolini — B1a/B1p/B1l, C9, 1380
+36. Matteo Palmieri — B1a/B1p, C9, 1406
+37. Leon Battista Alberti — B1a/B1h/B1i/B1p, C9, 1404
+38. Coluccio Salutati — B1a/B1p/B1e, C9, 1331
+39. Giannozzo Manetti — B1a/B1p/B1d, C9, 1396
+40. Angelo Poliziano — B1a/B1p, C9, 1454
+41. Flavio Biondo — B1l/B1a/B1p, C9, 1392
+42. Guarino da Verona — B1y/B1p/B1a, C9, 1374
+43. Aeneas Silvius Piccolomini — B1f/B1a/B1e, C9, 1405
+44. Paolo dal Pozzo Toscanelli — B1n/B1g/B1p, C9, 1397
+45. Giovanni Aurispa — B1p/B1y/B1a, C9, 1376
+46. Vittorino da Feltre — B1y/B1a/B1p, C9, 1378
+47. Giovanni da Serravalle — B1f/B1a/B1p, C9, 1350
+48. Giorgio Valla — B1p/B1n/B1a, C9, 1447
+49. Demetrios Chalkokondyles — B1p/B1y/B1a, C10, 1423
+50. Manuel Chrysoloras — B1p/B1y/B1a, C10, 1355
+51. Giotto di Bondone — B1h, C9, 1267
+52. Ambrogio Lorenzetti — B1h, C9, 1290
+53. Simone Martini — B1h, C9, 1284
+54. Fra Angelico — B1h/B1f, C9, 1395
+55. Masaccio — B1h, C9, 1401
+56. Filippo Brunelleschi — B1h/B1i/B1g, C9, 1377
+57. Donatello — B1h, C9, 1386
+58. Lorenzo Ghiberti — B1h/B1i, C9, 1378
+59. Paolo Uccello — B1h/B1n, C9, 1397
+60. Andrea del Castagno — B1h, C9, 1421
+61. Piero della Francesca — B1h/B1n, C9, 1415
+62. Andrea Mantegna — B1h, C9, 1431
+63. Rogier van der Weyden — B1h, C9, 1400
+64. Jan van Eyck — B1h, C9, 1390
+65. Hans Memling — B1h, C9, 1430
+66. Fra Filippo Lippi — B1h/B1f, C9, 1406
+67. Domenico Veneziano — B1h, C9, 1410
+68. Gentile da Fabriano — B1h, C9, 1370
+69. Benozzo Gozzoli — B1h, C9, 1421
+70. Andrea del Verrocchio — B1h/B1i, C9, 1435
+71. Ibn Khaldun — B1d/B1l/B1p, C13, 1332
+72. Christine de Pizan — B1a/B1f, C9, 1364
+73. Philippe de Mézières — B1a/B1f, C9, 1327
+74. Bartolus de Saxoferrato — B1e/B1p/B1d, C9, 1313
+75. Baldus de Ubaldis — B1e/B1p/B1d, C9, 1327
+76. Jean de Montreuil — B1a/B1p, C9, 1354
+77. John Fortescue — B1e/B1a/B1p, C9, 1394
+78. Bernardino of Siena — B1f/B1a/B1v, C9, 1380
+79. Juan de Mariana — B1d/B1l/B1f, C11, 1536
+80. Enea Silvio Piccolomini — B1f/B1a/B1e, C9, 1405
+81. Catherine of Siena — B1f/B1a, C9, 1347
+82. Julian of Norwich — B1f/B1a, C9, 1343
+83. Margery Kempe — B1f/B1a, C9, 1373
+84. Birgitta of Sweden — B1f/B1a, C9, 1303
+85. Vincent Ferrer — B1f/B1v, C9, 1350
+86. Walter Hilton — B1f/B1a, C9, 1340
+87. Alonso de Cartagena — B1p/B1a/B1f, C11, 1384
+88. Ludolph of Saxony — B1f/B1a, C9, 1295
+89. Johannes Geiler von Kaysersberg — B1f/B1a, C9, 1445
+90. Gersonides — B1d/B1n/B1p, C13, 1288
+91. Nicole Oresme — B1d/B1n/B1g/B1p, C9, 1320
+92. Giovanni di Casali — B1d/B1n/B1g, C9, 1313
+93. Albert of Saxony — B1d/B1n/B1p, C9, 1316
+94. Theodoric of Freiberg — B1d/B1g/B1n, C9, 1250
+95. Georg von Peuerbach — B1n/B1g/B1p, C9, 1423
+96. Regiomontanus — B1n/B1g/B1p, C9, 1436
+97. Nicholas of Autrecourt — B1d/B1p, C9, 1300
+98. Blasius of Parma — B1d/B1n/B1p, C9, 1345
+99. Paolo Toscanelli — B1n/B1g/B1p, C9, 1397
+100. John Duns Scotus — B1d/B1f, C9, 1266
+101. Pierre d'Ailly — B1d/B1f, C9, 1351
+102. Henry of Langenstein — B1d/B1p/B1f, C9, 1325
+103. John of Mirecourt — B1d/B1f, C9, 1310
+104. Gregory of Rimini — B1d/B1f, C9, 1300
+105. Paul of Venice — B1d/B1f, C9, 1369
+106. Antonius Andreas — B1d/B1f, C9, 1280
+107. Thomas Bradwardine — B1d/B1g/B1f, C9, 1290
+108. Richard of Bury — B1f/B1a/B1p, C9, 1287
+109. Peter of Ailly — B1d/B1f, C9, 1351
+110. Conrad of Megenberg — B1g/B1p/B1a, C9, 1309
+111. Bernardino of Siena — B1f/B1a/B1v, C9, 1380
+112. John of Capistrano — B1f/B1a, C9, 1386
+113. Alanus de Rupe — B1f/B1a, C9, 1428
+114. Thomas Netter of Walden — B1f/B1d, C9, 1375
+115. Johannes Nider — B1f/B1d/B1a, C9, 1380
+116. Jean Gerson — B1d/B1f/B1a, C9, 1363
+117. Catherine of Bologna — B1f/B1a/B1h, C9, 1413
+118. Oswald of Wolkenstein — B1b/B1a, C9, 1376
+119. Girolamo Savonarola — B1f/B1a/B1d, C9, 1452
+120. Dietrich of Freiberg — B1d/B1g/B1n, C9, 1250
+121. George of Trebizond — B1p/B1a/B1d, C10, 1395
+122. Francesco Filelfo — B1a/B1p/B1d, C9, 1398
+123. Antonio Beccadelli — B1a/B1p, C9, 1394
+124. Poggio Bracciolini — B1a/B1p/B1l, C9, 1380
+125. Pier Paolo Vergerio — B1a/B1p/B1y, C9, 1498
+126. Cristoforo Landino — B1a/B1p/B1d, C9, 1424
+127. Giovanni Antonio Campano — B1a/B1p, C9, 1429
+128. Johannes Reuchlin — B1p/B1a/B1d, C9, 1455
+129. Giovanni Pontano — B1a/B1p/B1e, C9, 1429
+130. Antonio da Rho — B1a/B1p, C9, 1398
+131. Benedetto Dei — B1a/B1l, C9, 1418
+132. Flavio Biondo — B1l/B1a/B1p, C9, 1392
+133. George Sphrantzes — B1l/B1e/B1a, C10, 1401
+134. Michael Psellos — B1d/B1p/B1a, C10, 1018
+135. Niccolò da Conti — B1a/B1l, C9, 1395
+136. Bertrandon de la Broquière — B1l/B1a, C9, 1400
+137. Pero Tafur — B1l/B1a, C11, 1410
+138. Johannes Tinctoris — B1i/B1p/B1a, C9, 1435
+139. Guillebert de Lannoy — B1l/B1a, C9, 1386
+140. Ludovico Foscarini — B1e/B1a, C9, 1401
+141. Taddeo Gaddi — B1h, C9, 1290
+142. Altichiero da Zevio — B1h, C9, 1330
+143. Jacopo Avanzi — B1h, C9, 1350
+144. Bartolomeo di Fruosino — B1h, C9, 1366
+145. Bicci di Lorenzo — B1h, C9, 1370
+146. Andrea da Firenze — B1h/B1i, C9, 1346
+147. Giovanni di Paolo — B1h, C9, 1396
+148. Zanobi Strozzi — B1h, C9, 1412
+149. Sassetta — B1h, C9, 1392
+150. Neri di Bicci — B1h, C9, 1419
+151. Conrad Witz — B1h, C9, 1400
+152. Stefan Lochner — B1h, C9, 1410
+153. Dieric Bouts — B1h, C9, 1415
+154. Albert van Ouwater — B1h, C9, 1410
+155. Hans Pleydenwurff — B1h, C9, 1420
+156. Master of Flémalle — B1h, C9, 1375
+157. Barthélemy d'Eyck — B1h, C9, 1420
+158. Michael Pacher — B1h, C9, 1430
+159. Nicolaus Gerhaert van Leyden — B1h, C9, 1430
+160. Martin Schongauer — B1h, C9, 1450
+161. Al-Shatibi — B1f/B1d/B1p, C13, 1320
+162. Ibn al-Khatib — B1a/B1f/B1l, C13, 1313
+163. Ibn Khaldun — B1d/B1l/B1p, C13, 1332
+164. Al-Maqrizi — B1l/B1a/B1f, C13, 1364
+165. Ibn Hajar al-Asqalani — B1f/B1p/B1l, C13, 1372
+166. Jalal al-Din al-Suyuti — B1f/B1a/B1p/B1d, C13, 1445
+167. Qadi Iyad — B1f/B1p/B1d, C13, 1083
+168. Ibn al-Wardi — B1l/B1a/B1f, C13, 1292
+169. Judah Messer Leon — B1d/B1f/B1p, C13, 1425
+170. Hasdai Crescas — B1d/B1f, C13, 1340
+171. Giovanni Dondi dell'Orologio — B1g/B1n/B1i, C9, 1330
+172. Richard of Wallingford — B1g/B1n/B1p, C9, 1292
+173. Giovanni Marliani — B1g/B1n/B1p, C9, 1488
+174. Jacques d'Étaples — B1d/B1a/B1p, C9, 1460
+175. Francesco Pellos — B1n/B1p, C9, 1448
+176. Cristoforo Landino — B1a/B1p/B1d, C9, 1424
+177. Abraham Zacuto — B1n/B1p/B1g, C13, 1452
+178. Johannes Werner — B1n/B1g/B1p, C9, 1468
+179. Johannes Müller (Regiomontanus) — B1n/B1g/B1p, C9, 1436
+180. Georg von Peuerbach — B1n/B1g/B1p, C9, 1423
+181. Gemistus Pletho — B1d/B1f/B1a, C10, 1355
+182. Bessarion — B1f/B1d/B1a/B1p, C10, 1403
+183. Gennadius Scholarius — B1f/B1d/B1a, C10, 1400
+184. George Amiroutzes — B1d/B1p/B1f, C10, 1400
+185. John Argyropoulos — B1p/B1a/B1y, C10, 1415
+186. Theodore Gaza — B1p/B1a/B1y, C10, 1398
+187. Demetrius Triclinius — B1p/B1a, C10, 1300
+188. Manuel II Palaiologos — B1e/B1a/B1f, C10, 1350
+189. Andronikos Kallistos — B1p/B1a/B1y, C10, 1425
+190. Nikephoros Gregoras — B1d/B1l/B1a, C10, 1295
+191. Leonello d’Este — B1e/B1a, C9, 1407
+192. Galeotto Marzio — B1a/B1d/B1p, C9, 1427
+193. Lorenzo Valla — B1d/B1p/B1a, C9, 1407
+194. Pietro Paolo Vergerio — B1a/B1p/B1y, C9, 1370
+195. Antonio Squarcialupi — B1i, C9, 1416
+196. Cornelius Agrippa — B1d/B1a/B1p, C9, 1486
+197. Johannes Trithemius — B1f/B1a/B1p, C9, 1462
+198. Marsilio Ficino — B1d/B1f/B1a/B1p, C9, 1433
+199. Giovanni Pico della Mirandola — B1d/B1a/B1x, C9, 1463
+200. Girolamo Savonarola — B1f/B1a/B1d, C9, 1452
+1. Niccolò Machiavelli — B1d/B1a/B1e, C9, 1469
+2. Michel de Montaigne — B1d/B1a/B1x, C9, 1533
+3. Erasmus of Rotterdam — B1a/B1d/B1f/B1x, C9, 1466
+4. Thomas More — B1a/B1d/B1f/B1e, C9, 1478
+5. Juan Luis Vives — B1d/B1a/B1p, C11, 1493
+6. Giordano Bruno — B1d/B1f/B1a, C9, 1548
+7. Tommaso Campanella — B1d/B1f/B1a, C9, 1568
+8. Justus Lipsius — B1d/B1p/B1a, C9, 1547
+9. Guillaume Budé — B1p/B1a/B1d, C9, 1467
+10. Jean Bodin — B1d/B1e/B1a, C9, 1530
+11. Francesco Guicciardini — B1a/B1l/B1e, C9, 1483
+12. Étienne de La Boétie — B1d/B1a/B1x, C9, 1530
+13. Giovanni Pico della Mirandola — B1d/B1a/B1x, C9, 1463
+14. Philip Melanchthon — B1f/B1d/B1a/B1p, C9, 1497
+15. Luis de León — B1a/B1f/B1p, C11, 1527
+16. Paolo Sarpi — B1d/B1a/B1f, C9, 1552
+17. Johannes Althusius — B1d/B1e, C9, 1563
+18. Pedro Mexía — B1a/B1p/B1l, C11, 1497
+19. Conrad Gessner — B1g/B1p/B1l, C9, 1516
+20. Andrea Alciato — B1p/B1d/B1a, C9, 1492
+21. William Shakespeare — B1a/B1b/B1p, C9, 1564
+22. Christopher Marlowe — B1a/B1b, C9, 1564
+23. Edmund Spenser — B1a/B1b, C9, 1552
+24. Torquato Tasso — B1a/B1b, C9, 1544
+25. Ludovico Ariosto — B1a/B1b, C9, 1474
+26. Pierre de Ronsard — B1a/B1b, C9, 1524
+27. Louise Labé — B1a/B1b, C9, 1524
+28. Clément Marot — B1a/B1b, C9, 1496
+29. Agrippa d'Aubigné — B1a/B1b/B1f, C9, 1552
+30. Garcilaso de la Vega — B1a/B1b, C11, 1503
+31. Baltasar del Alcázar — B1a/B1b, C11, 1530
+32. Jorge de Montemayor — B1a/B1b, C11, 1520
+33. Joachim du Bellay — B1a/B1b, C9, 1522
+34. Juan Boscán — B1a/B1b, C11, 1490
+35. Giovanni della Casa — B1a/B1b/B1f, C9, 1503
+36. Pietro Aretino — B1a/B1b, C9, 1492
+37. Giambattista Giraldi — B1a/B1b, C9, 1504
+38. George Gascoigne — B1a/B1b, C9, 1535
+39. John Lyly — B1a/B1b, C9, 1554
+40. George Peele — B1a/B1b, C9, 1556
+41. Nicolaus Copernicus — B1g/B1n/B1p, C9, 1473
+42. Tycho Brahe — B1g/B1n, C9, 1546
+43. Johannes Kepler — B1g/B1n, C9, 1571
+44. Girolamo Cardano — B1g/B1n/B1d, C9, 1501
+45. Gerolamo Mercuriale — B1g/B1p, C9, 1530
+46. Paracelsus — B1g/B1f/B1d, C9, 1493
+47. Andreas Vesalius — B1g/B1p, C9, 1514
+48. Ambroise Paré — B1g, C9, 1510
+49. John Dee — B1g/B1p/B1d, C9, 1527
+50. Leonard Digges — B1g/B1n/B1i, C9, 1520
+51. Pedro Nunes — B1n/B1g/B1p, C11, 1502
+52. Christopher Clavius — B1n/B1g/B1p/B1f, C9, 1538
+53. François Viète — B1n/B1g/B1p, C9, 1540
+54. Thomas Harriot — B1n/B1g/B1p, C9, 1560
+55. Michael Servetus — B1g/B1f/B1d, C9, 1511
+56. Georg Joachim Rheticus — B1g/B1n/B1p, C9, 1514
+57. Conrad Dasypodius — B1n/B1p/B1g, C9, 1532
+58. Ulisse Aldrovandi — B1g/B1p, C9, 1522
+59. Guillaume Rondelet — B1g/B1p, C9, 1507
+60. Andrea Cesalpino — B1g/B1p/B1d, C9, 1519
+61. Giovanni Pierluigi da Palestrina — B1i, C9, 1525
+62. Orlando di Lasso — B1i, C9, 1532
+63. Tomás Luis de Victoria — B1i, C11, 1548
+64. William Byrd — B1i, C9, 1539
+65. John Dowland — B1i, C9, 1563
+66. Cipriano de Rore — B1i, C9, 1515
+67. Luca Marenzio — B1i, C9, 1553
+68. Claudio Merulo — B1i, C9, 1533
+69. Giovanni Gabrieli — B1i, C9, 1555
+70. Costanzo Porta — B1i, C9, 1528
+71. Alonso Lobo — B1i, C11, 1555
+72. Cristóbal de Morales — B1i, C11, 1500
+73. Adrian Willaert — B1i, C9, 1490
+74. Gioseffo Zarlino — B1i/B1p, C9, 1517
+75. Jacques Arcadelt — B1i, C9, 1507
+76. Philippe de Monte — B1i, C9, 1521
+77. Maddalena Casulana — B1i/B1a, C9, 1544
+78. Eustache du Caurroy — B1i, C9, 1549
+79. Giaches de Wert — B1i, C9, 1535
+80. Giovanni Animuccia — B1i, C9, 1520
+81. Martin Luther — B1f/B1a/B1d/B1v, C9, 1483
+82. John Calvin — B1f/B1a/B1d/B1v, C9, 1509
+83. Ignatius of Loyola — B1f/B1a, C9, 1491
+84. Teresa of Ávila — B1f/B1a, C11, 1515
+85. John of the Cross — B1f/B1a/B1b, C11, 1542
+86. Ulrich Zwingli — B1f/B1d/B1v, C9, 1484
+87. Menno Simons — B1f/B1a, C9, 1496
+88. Thomas Cranmer — B1f/B1a/B1v, C9, 1489
+89. William Tyndale — B1f/B1a/B1y, C9, 1494
+90. Richard Hooker — B1f/B1d/B1a, C9, 1554
+91. Desiderius Erasmus — B1a/B1d/B1f/B1x, C9, 1466
+92. Johannes Eck — B1f/B1d/B1a, C9, 1486
+93. Philip Neri — B1f/B1a, C9, 1515
+94. Robert Bellarmine — B1f/B1d/B1a, C9, 1542
+95. Balthasar Hubmaier — B1f/B1a/B1d, C9, 1480
+96. Heinrich Bullinger — B1f/B1d/B1a, C9, 1504
+97. Girolamo Savonarola — B1f/B1a/B1d, C9, 1452
+98. Bartolomé de las Casas — B1f/B1a/B1d/B1x, C11, 1484
+99. Jean Calvin — B1f/B1a/B1d/B1v, C9, 1509
+100. Martin Bucer — B1f/B1a/B1d, C9, 1491
+101. Julius Caesar Scaliger — B1d/B1p/B1a, C9, 1484
+102. Joseph Justus Scaliger — B1p/B1l/B1a, C9, 1540
+103. Isaac Casaubon — B1p/B1a/B1d, C9, 1559
+104. Antonio de Nebrija — B1p/B1a/B1y, C11, 1444
+105. Giambattista della Porta — B1g/B1d/B1a, C9, 1535
+106. Giovanni Battista Benedetti — B1n/B1g, C9, 1530
+107. Benedetto Varchi — B1a/B1p/B1d, C9, 1502
+108. Paolo Giovio — B1l/B1a, C9, 1483
+109. Francisco de Vitoria — B1d/B1f/B1a, C11, 1483
+110. Domingo de Soto — B1d/B1f/B1a, C11, 1494
+111. Pedro Simón Abril — B1p/B1a/B1y, C11, 1530
+112. Helius Eobanus Hessus — B1a/B1b/B1p, C9, 1488
+113. Sebastian Münster — B1g/B1p/B1l, C9, 1488
+114. Melchior Cano — B1f/B1d/B1p, C11, 1509
+115. Conrad Lycosthenes — B1p/B1a, C9, 1518
+116. Johannes Sturm — B1y/B1p/B1a, C9, 1507
+117. Juan de Mariana — B1d/B1l/B1f, C11, 1536
+118. Polydore Vergil — B1l/B1a/B1p, C9, 1470
+119. Pierre Ramus — B1p/B1d/B1a, C9, 1515
+120. Jean Passerat — B1a/B1b, C9, 1534
+121. Thomas Kyd — B1a/B1b, C9, 1558
+122. Robert Greene — B1a/B1b, C9, 1558
+123. Thomas Nashe — B1a/B1b, C9, 1567
+124. Thomas Watson — B1a/B1b, C9, 1555
+125. Henry Howard, Earl of Surrey — B1a/B1b/B1e, C9, 1517
+126. Isabella di Morra — B1a/B1b, C9, 1520
+127. Baldassare Castiglione — B1a/B1d/B1e, C9, 1478
+128. Matteo Bandello — B1a/B1b, C9, 1485
+129. Giovanni Battista Guarini — B1a/B1b, C9, 1538
+130. Jean-Antoine de Baïf — B1a/B1b, C9, 1532
+131. Nicolas de Montreux — B1a/B1b, C9, 1561
+132. Cristóbal de Castillejo — B1a/B1b, C11, 1490
+133. Francisco de Figueroa — B1a/B1b, C11, 1536
+134. Hernando de Acuña — B1a/B1b, C11, 1520
+135. Olivier de Magny — B1a/B1b, C9, 1529
+136. Maurice Scève — B1a/B1b, C9, 1501
+137. Isabella Andreini — B1a/B1b/B1s, C9, 1562
+138. Marcantonio Flaminio — B1a/B1b/B1f, C9, 1498
+139. Robert Southwell — B1f/B1a/B1b, C9, 1561
+140. Barnabe Googe — B1a/B1b, C9, 1540
+141. Thomas Digges — B1n/B1g/B1p, C9, 1546
+142. William Gilbert — B1g/B1n/B1p, C9, 1544
+143. Simon Stevin — B1n/B1g, C9, 1548
+144. Christopher Clavius — B1n/B1g/B1p/B1f, C9, 1538
+145. Lodovico Ferrari — B1n, C9, 1522
+146. Francesco Maurolico — B1n/B1g/B1p, C9, 1494
+147. Jérôme Cardan — B1g/B1n/B1d, C9, 1501
+148. François Rabelais — B1a/B1b/B1f/B1d, C9, 1494
+149. Taqi al-Din — B1g/B1n/B1p, C13, 1526
+150. Petrus Ramus — B1p/B1d/B1a, C9, 1515
+151. Johannes Praetorius — B1g/B1p, C9, 1537
+152. Marin Getaldić — B1n/B1g, C9, 1566
+153. Julius Caesar Aranzi — B1g/B1p, C9, 1529
+154. Bernardino Telesio — B1d/B1g, C9, 1509
+155. Andrea Vesalius — B1g/B1p, C9, 1514
+156. Realdo Colombo — B1g, C9, 1516
+157. Juan Huarte de San Juan — B1g/B1p/B1d, C11, 1529
+158. Thomas Erastus — B1d/B1f/B1g, C9, 1524
+159. John Gerard — B1g/B1p, C9, 1545
+160. Matthias de l'Obel — B1g/B1p, C9, 1538
+161. Claude Le Jeune — B1i, C9, 1528
+162. Antoine de Bertrand — B1i, C9, 1530
+163. Thomas Tallis — B1i, C9, 1505
+164. Eustache du Caurroy — B1i, C9, 1549
+165. Jacobus Gallus — B1i, C9, 1550
+166. Jean Richafort — B1i, C9, 1480
+167. Costanzo Festa — B1i, C9, 1485
+168. Philippe Rogier — B1i, C11, 1561
+169. Claude Goudimel — B1i/B1f, C9, 1510
+170. Esteban Salas y Castro — B1i, C11, 1725
+171. Sebastián de Vivanco — B1i, C11, 1551
+172. Melchior Franck — B1i, C9, 1579
+173. Alonso Mudarra — B1i, C11, 1510
+174. Luis de Milán — B1i, C11, 1500
+175. Giovanni Bassano — B1i, C9, 1558
+176. Annibale Padovano — B1i, C9, 1527
+177. Girolamo Diruta — B1i/B1p, C9, 1546
+178. Baldassare Donato — B1i, C9, 1525
+179. Jacques Buus — B1i, C9, 1500
+180. Giovanni Cavaccio — B1i, C9, 1556
+181. Reginald Pole — B1f/B1e/B1a, C9, 1500
+182. John Jewel — B1f/B1a, C9, 1522
+183. Edmund Campion — B1f/B1a/B1d, C9, 1540
+184. Peter Canisius — B1f/B1a/B1d, C9, 1521
+185. Gaspar Contarini — B1f/B1d/B1e, C9, 1483
+186. Juan de Valdés — B1f/B1d/B1a, C11, 1509
+187. Fulke Greville — B1a/B1b/B1e, C9, 1554
+188. George Buchanan — B1a/B1b/B1y, C9, 1506
+189. Henry of Navarre — B1e, C9, 1553
+190. Margaret of Navarre — B1a/B1f/B1e, C9, 1492
+191. Elizabeth I — B1e/B1a/B1v, C9, 1533
+192. Mary, Queen of Scots — B1e/B1a, C9, 1542
+193. Thomas Müntzer — B1f/B1d/B1v, C9, 1490
+194. Conrad Grebel — B1f/B1a, C9, 1498
+195. Girolamo Zanchi — B1f/B1d/B1a, C9, 1516
+196. Benedetto Accolti the Younger — B1e/B1a/B1p, C9, 1466
+197. Andrea Gritti — B1e, C9, 1455
+198. William of Orange — B1e/B1a, C9, 1533
+199. François Hotman — B1e/B1a/B1d, C9, 1524
+200. John Knox — B1f/B1a/B1v, C9, 1513
+1. René Descartes — B1d/B1g/B1n, C9, 1596
+2. Baruch Spinoza — B1d/B1f/B1a, C9, 1632
+3. Thomas Hobbes — B1d/B1e/B1a, C9, 1588
+4. John Locke — B1d/B1e/B1a, C9, 1632
+5. Blaise Pascal — B1d/B1g/B1n/B1a, C9, 1623
+6. Pierre Gassendi — B1d/B1g/B1f, C9, 1592
+7. Henry More — B1d/B1f, C9, 1614
+8. Anne Conway — B1d/B1f/B1a, C9, 1631
+9. Giordano Bruno — B1d/B1f/B1a, C9, 1548
+10. Ralph Cudworth — B1d/B1f, C9, 1617
+11. Marin Mersenne — B1d/B1g/B1f, C9, 1588
+12. Nicolas Malebranche — B1d/B1f, C9, 1638
+13. Hugo Grotius — B1d/B1e/B1a, C9, 1583
+14. Samuel von Pufendorf — B1d/B1e/B1a, C9, 1632
+15. Francisco Suárez — B1d/B1f, C9, 1548
+16. Jakob Böhme — B1f/B1d/B1a, C9, 1575
+17. Robert Filmer — B1d/B1e/B1a, C9, 1588
+18. Antoine Arnauld — B1d/B1f/B1a, C9, 1612
+19. Margaret Cavendish — B1d/B1a/B1x, C9, 1623
+20. Juan de Mariana — B1d/B1l/B1f, C11, 1536
+21. Galileo Galilei — B1g/B1n/B1d, C9, 1564
+22. Johannes Kepler — B1g/B1n, C9, 1571
+23. Isaac Newton — B1g/B1n/B1d, C9, 1642
+24. Robert Boyle — B1g/B1d, C9, 1627
+25. Christiaan Huygens — B1g/B1n, C9, 1629
+26. Gottfried Wilhelm Leibniz — B1d/B1n/B1g/B1p, C9, 1646
+27. Marin Mersenne — B1d/B1g/B1f, C9, 1588
+28. Evangelista Torricelli — B1g/B1n, C9, 1608
+29. Edmond Halley — B1g/B1n, C9, 1656
+30. John Wallis — B1n/B1g, C9, 1616
+31. Blaise Pascal — B1d/B1g/B1n/B1a, C9, 1623
+32. Francesco Redi — B1g/B1p, C9, 1626
+33. Jan Baptist van Helmont — B1g/B1p, C9, 1580
+34. Otto von Guericke — B1g/B1n, C9, 1602
+35. Antonie van Leeuwenhoek — B1g, C9, 1632
+36. James Gregory — B1n/B1g, C9, 1638
+37. Isaac Barrow — B1d/B1n/B1f, C9, 1630
+38. Pierre de Fermat — B1n/B1d, C9, 1607
+39. Robert Hooke — B1g/B1n, C9, 1635
+40. William Harvey — B1g/B1p, C9, 1578
+41. John Milton — B1a/B1b/B1d, C9, 1608
+42. John Donne — B1a/B1b/B1f, C9, 1572
+43. Andrew Marvell — B1a/B1b, C9, 1621
+44. George Herbert — B1a/B1b/B1f, C9, 1593
+45. Robert Herrick — B1a/B1b, C9, 1591
+46. Richard Crashaw — B1a/B1b/B1f, C9, 1613
+47. Thomas Browne — B1a/B1d/B1g, C9, 1605
+48. Aphra Behn — B1a/B1b/B1x, C9, 1640
+49. Pierre Corneille — B1a/B1b, C9, 1606
+50. Jean Racine — B1a/B1b, C9, 1639
+51. Molière — B1a/B1b/B1w, C9, 1622
+52. John Dryden — B1a/B1b/B1k, C9, 1631
+53. Ben Jonson — B1a/B1b/B1w, C9, 1572
+54. Miguel de Cervantes — B1a/B1b, C11, 1547
+55. Pedro Calderón de la Barca — B1a/B1b/B1f, C11, 1600
+56. Lope de Vega — B1a/B1b/B1f, C11, 1562
+57. Torquato Tasso — B1a/B1b, C9, 1544
+58. Giambattista Marino — B1a/B1b, C9, 1569
+59. Angelus Silesius — B1f/B1b/B1a, C9, 1624
+60. John Bunyan — B1a/B1f, C9, 1628
+61. Jeremy Taylor — B1f/B1a, C9, 1613
+62. Richard Baxter — B1f/B1a/B1v, C9, 1615
+63. George Fox — B1f/B1a/B1v, C9, 1624
+64. Blaise Pascal — B1d/B1g/B1n/B1a, C9, 1623
+65. Jakob Böhme — B1f/B1d/B1a, C9, 1575
+66. Cornelius Jansen — B1f/B1d, C9, 1585
+67. Louis de Molina — B1f/B1d/B1a, C11, 1535
+68. John Owen — B1f/B1d/B1a, C9, 1616
+69. Thomas Goodwin — B1f/B1d/B1a, C9, 1600
+70. Joseph Hall — B1f/B1a/B1v, C9, 1574
+71. Francisco de Quevedo — B1a/B1b/B1d, C11, 1580
+72. François Fénelon — B1f/B1a/B1d, C9, 1651
+73. Pierre Bayle — B1d/B1p/B1a/B1x, C9, 1647
+74. Jeanne Guyon — B1f/B1a, C9, 1648
+75. Thomas à Kempis — B1f/B1a, C9, 1380
+76. Thomas Fuller — B1l/B1a/B1f, C9, 1608
+77. Sir William Temple — B1e/B1a/B1d, C9, 1628
+78. Thomas Stanley — B1a/B1p/B1d, C9, 1625
+79. Walter Charleton — B1g/B1d/B1p, C9, 1620
+80. Samuel Pepys — B1a/B1l, C9, 1633
+81. James Ussher — B1f/B1l/B1a, C9, 1581
+82. John Aubrey — B1a/B1l/B1p, C9, 1626
+83. Edward Hyde, 1st Earl of Clarendon — B1e/B1a/B1l, C9, 1609
+84. Thomas Sprat — B1a/B1l/B1f, C9, 1635
+85. Abraham Cowley — B1a/B1b/B1p, C9, 1618
+86. Emanuele Tesauro — B1a/B1b/B1d, C9, 1592
+87. Baltasar Gracián — B1a/B1b/B1d, C11, 1601
+88. Nicolas Boileau — B1a/B1b/B1k, C9, 1636
+89. Henry Vaughan — B1a/B1b/B1f, C9, 1621
+90. Pierre Bayle — B1d/B1p/B1a/B1x, C9, 1647
+91. Rembrandt van Rijn — B1h, C9, 1606
+92. Peter Paul Rubens — B1h/B1e, C9, 1577
+93. Diego Velázquez — B1h, C11, 1599
+94. Nicolas Poussin — B1h, C9, 1594
+95. Gian Lorenzo Bernini — B1h/B1i/B1e, C9, 1598
+96. Francesco Borromini — B1h/B1i, C9, 1599
+97. Claudio Monteverdi — B1i, C9, 1567
+98. Heinrich Schütz — B1i, C9, 1585
+99. Jean-Baptiste Lully — B1i, C9, 1632
+100. Henry Purcell — B1i, C9, 1659
+101. Juan Caramuel y Lobkowitz — B1d/B1p/B1f, C11, 1606
+102. Gerhard Johann Vossius — B1p/B1a/B1l, C9, 1577
+103. Gisbertus Voetius — B1f/B1d, C9, 1589
+104. Ezechiel Spanheim — B1e/B1l/B1a, C9, 1629
+105. Pierre Jurieu — B1f/B1d, C9, 1637
+106. Henry Stubbe — B1a/B1d/B1g, C9, 1632
+107. Johann Heinrich Alsted — B1p/B1d/B1f, C9, 1588
+108. Thomas White — B1d/B1f, C9, 1593
+109. Sir Kenelm Digby — B1d/B1g/B1a, C9, 1603
+110. Joachim Jungius — B1g/B1n/B1d, C9, 1587
+111. Richard Cumberland — B1d/B1e, C9, 1631
+112. Henry Neville — B1a/B1e/B1d, C9, 1620
+113. James Harrington — B1d/B1e/B1a, C9, 1611
+114. Marchamont Nedham — B1a/B1e/B1j, C9, 1620
+115. Antoine Le Grand — B1d/B1f, C9, 1629
+116. Jean Bodin — B1d/B1e/B1a, C9, 1530
+117. Franciscus Junius the Elder — B1f/B1a, C9, 1545
+118. Johannes Clauberg — B1d/B1f, C9, 1622
+119. Johann Georg Hamann — B1d/B1a/B1x, C9, 1730
+120. Michel de La Roche — B1j/B1a, C9, 1678
+121. Giovanni Alfonso Borelli — B1g/B1n, C9, 1608
+122. John Wilkins — B1g/B1p/B1f, C9, 1614
+123. Henry Oldenburg — B1g/B1p/B1j, C9, 1619
+124. Thomas Sydenham — B1g/B1p, C9, 1624
+125. John Ray — B1g/B1p/B1n, C9, 1627
+126. Nicolas Steno — B1g/B1p/B1f, C9, 1638
+127. William Petty — B1g/B1e/B1n/B1p, C9, 1623
+128. Athanasius Kircher — B1g/B1p/B1f/B1a, C9, 1602
+129. Caspar Bartholin — B1g/B1p, C9, 1585
+130. Ole Worm — B1g/B1p, C9, 1588
+131. Robert Woodward — B1g/B1n, C9, 1653
+132. Denis Papin — B1g/B1n/B1p, C9, 1647
+133. Ehrenfried Walther von Tschirnhaus — B1g/B1n/B1d, C9, 1651
+134. Walter Charleton — B1g/B1d/B1p, C9, 1619
+135. Francesco Maria Grimaldi — B1g/B1n, C9, 1618
+136. Hieronymus Fabricius — B1g/B1p, C9, 1537
+137. James Gregory — B1n/B1g, C9, 1638
+138. Jean Picard — B1g/B1n, C9, 1620
+139. Giovanni Domenico Cassini — B1g/B1n, C9, 1625
+140. Edward Tyson — B1g/B1p, C9, 1650
+141. John Wilmot, Earl of Rochester — B1a/B1b/B1e, C9, 1647
+142. George Wither — B1a/B1b, C9, 1588
+143. Sir William Davenant — B1a/B1b, C9, 1606
+144. Thomas Traherne — B1a/B1b/B1f, C9, 1636
+145. Elkanah Settle — B1a/B1b, C9, 1648
+146. James Shirley — B1a/B1b, C9, 1596
+147. Abraham Cowley — B1a/B1b/B1p, C9, 1618
+148. Margaret Lucas Cavendish — B1d/B1a/B1x, C9, 1623
+149. Richard Lovelace — B1a/B1b, C9, 1618
+150. Thomas Randolph — B1a/B1b, C9, 1605
+151. Sir John Denham — B1a/B1b, C9, 1615
+152. Thomas Carew — B1a/B1b, C9, 1595
+153. Edward Taylor — B1a/B1b/B1f, C9, 1642
+154. Henry King — B1a/B1b/B1f, C9, 1592
+155. John Cleveland — B1a/B1b, C9, 1613
+156. Sir Thomas Urquhart — B1a/B1d/B1p, C9, 1611
+157. John Harington — B1a/B1b/B1e, C9, 1560
+158. John Davies of Hereford — B1a/B1b, C9, 1569
+159. Francisco de Rioja — B1a/B1b, C11, 1583
+160. Juan Ruiz de Alarcón — B1a/B1b/B1d, C11, 1581
+161. Sir Aston Cokayne — B1a/B1b, C9, 1608
+162. James Mabbe — B1a/B1y/B1p, C9, 1572
+163. William Davenant — B1a/B1b, C9, 1606
+164. Pedro Calderón de la Barca — B1a/B1b/B1f, C11, 1600
+165. Antonio Mira de Amescua — B1a/B1b/B1f, C11, 1574
+166. Thomas Killigrew — B1a/B1b, C9, 1612
+167. George Etherege — B1a/B1b, C9, 1636
+168. William Wycherley — B1a/B1b, C9, 1641
+169. Thomas Otway — B1a/B1b, C9, 1652
+170. John Vanbrugh — B1a/B1b/B1e, C9, 1664
+171. George Farquhar — B1a/B1b, C9, 1677
+172. Molière — B1a/B1b/B1w, C9, 1622
+173. Thomas Shadwell — B1a/B1b, C9, 1642
+174. Pierre du Ryer — B1a/B1b, C9, 1606
+175. Paul Scarron — B1a/B1b/B1w, C9, 1610
+176. Catherine Trotter — B1a/B1d/B1x, C9, 1679
+177. Anne Killigrew — B1a/B1b/B1h, C9, 1660
+178. Antoine Furetière — B1a/B1b/B1l, C9, 1619
+179. Madame de La Fayette — B1a/B1b, C9, 1634
+180. Madeleine de Scudéry — B1a/B1b/B1x, C9, 1607
+181. Isaac Ambrose — B1f/B1a, C9, 1604
+182. Thomas Watson — B1a/B1b, C9, 1557
+183. John Flavel — B1f/B1a, C9, 1628
+184. Increase Mather — B1f/B1a, C9, 1639
+185. Cotton Mather — B1f/B1a/B1l, C9, 1663
+186. William Ames — B1f/B1d/B1a, C9, 1576
+187. John Gill — B1f/B1d, C9, 1697
+188. Edward Stillingfleet — B1f/B1a/B1d, C9, 1635
+189. Joseph Glanvill — B1d/B1a/B1f, C9, 1636
+190. Franciscus Junius the Younger — B1p/B1l/B1a, C9, 1589
+191. Jean Mabillon — B1f/B1l/B1p, C9, 1632
+192. Roger Williams — B1f/B1a/B1e, C9, 1603
+193. John Eliot — B1f/B1a/B1y, C9, 1604
+194. Richard Baxter — B1f/B1a/B1v, C9, 1615
+195. John Lightfoot — B1f/B1p, C9, 1602
+196. Ralph Venning — B1f/B1a, C9, 1621
+197. Stephen Charnock — B1f/B1a, C9, 1628
+198. John Bramhall — B1f/B1a/B1d, C9, 1594
+199. Henry Hammond — B1f/B1a/B1d, C9, 1605
+200. Daniel Brevint — B1f/B1a, C9, 1616
+1. Voltaire — B1d/B1a/B1x, C9, 1694
+2. Jean-Jacques Rousseau — B1d/B1a/B1x, C9, 1712
+3. Denis Diderot — B1d/B1a/B1x, C9, 1713
+4. David Hume — B1d/B1a/B1x, C9, 1711
+5. Immanuel Kant — B1d/B1a, C9, 1724
+6. Montesquieu — B1d/B1a/B1e, C9, 1689
+7. Adam Smith — B1d/B1e/B1a/B1m, C9, 1723
+8. Edmund Burke — B1e/B1a/B1d/B1v, C9, 1729
+9. Thomas Jefferson — B1e/B1a/B1p, C9, 1743
+10. Benjamin Franklin — B1e/B1g/B1a/B1p, C9, 1706
+11. Thomas Paine — B1d/B1a/B1x, C9, 1737
+12. Gotthold Ephraim Lessing — B1a/B1d/B1x, C9, 1729
+13. Johann Gottlieb Fichte — B1d/B1a, C9, 1762
+14. Johann Georg Hamann — B1d/B1a/B1x, C9, 1730
+15. Giambattista Vico — B1d/B1a/B1l, C9, 1668
+16. Joseph Priestley — B1g/B1d/B1f/B1a, C9, 1733
+17. George Berkeley — B1d/B1f/B1a, C9, 1685
+18. William Godwin — B1d/B1a/B1x, C9, 1756
+19. Claude Adrien Helvétius — B1d/B1a, C9, 1715
+20. Baron d’Holbach — B1d/B1a, C9, 1723
+21. Isaac Newton — B1g/B1n/B1d, C9, 1643
+22. Carl Linnaeus — B1g/B1p, C9, 1707
+23. Leonhard Euler — B1n/B1g/B1p, C9, 1707
+24. Joseph-Louis Lagrange — B1n/B1g, C9, 1736
+25. Jean le Rond d’Alembert — B1n/B1g/B1d/B1a, C9, 1717
+26. Antoine Lavoisier — B1g/B1n, C9, 1743
+27. Pierre-Simon Laplace — B1n/B1g, C9, 1749
+28. James Hutton — B1g/B1p, C9, 1726
+29. Joseph Black — B1g/B1p, C9, 1728
+30. Georges-Louis Leclerc — B1g/B1l/B1a, C9, 1707
+31. Daniel Bernoulli — B1n/B1g, C9, 1700
+32. Benjamin Thompson — B1g/B1e, C9, 1753
+33. Edward Jenner — B1g/B1p, C9, 1749
+34. James Watt — B1g/B1i, C9, 1736
+35. John Dalton — B1g/B1n, C9, 1766
+36. Stephen Hales — B1g/B1f/B1p, C9, 1677
+37. William Herschel — B1g/B1n, C9, 1738
+38. Luigi Galvani — B1g/B1n, C9, 1737
+39. Alessandro Volta — B1g/B1n, C9, 1745
+40. Jean-Baptiste Lamarck — B1g/B1d/B1p, C9, 1744
+41. Jonathan Swift — B1a/B1b/B1x, C9, 1667
+42. Alexander Pope — B1a/B1b/B1k, C9, 1688
+43. Samuel Johnson — B1a/B1b/B1k, C9, 1709
+44. Laurence Sterne — B1a/B1b, C9, 1713
+45. Tobias Smollett — B1a/B1b, C9, 1721
+46. Henry Fielding — B1a/B1b, C9, 1707
+47. Denis Fonvizin — B1a/B1b/B1e, C9, 1745
+48. Jean-Baptiste Rousseau — B1a/B1b, C9, 1671
+49. James Boswell — B1a/B1l/B1p, C9, 1740
+50. Oliver Goldsmith — B1a/B1b/B1x, C9, 1728
+51. Johann Gottfried Herder — B1d/B1a/B1x, C9, 1744
+52. Madame de Staël — B1a/B1d/B1x, C9, 1766
+53. Christoph Martin Wieland — B1a/B1b/B1d, C9, 1733
+54. Frances Burney — B1a/B1b, C9, 1752
+55. William Blake — B1a/B1b/B1h, C9, 1757
+56. Horace Walpole — B1a/B1b/B1l, C9, 1717
+57. Ann Radcliffe — B1a/B1b, C9, 1764
+58. Johann Peter Hebel — B1a/B1b, C9, 1760
+59. Friedrich Schiller — B1a/B1b/B1d, C9, 1759
+60. Johann Wolfgang von Goethe — B1a/B1b/B1d/B1x, C9, 1749
+61. John Wesley — B1f/B1a/B1v, C9, 1703
+62. George Whitefield — B1f/B1v, C9, 1714
+63. Emanuel Swedenborg — B1f/B1d/B1a/B1g, C9, 1688
+64. Jonathan Edwards — B1f/B1d/B1a, C9, 1703
+65. Joseph Butler — B1f/B1d/B1a, C9, 1692
+66. Jean-Jacques Burlamaqui — B1d/B1e/B1a, C9, 1694
+67. Johann Albrecht Bengel — B1f/B1p, C9, 1687
+68. Richard Watson — B1f/B1d/B1a, C9, 1737
+69. William Paley — B1f/B1d/B1a, C9, 1743
+70. Johann Michael Sailer — B1f/B1a/B1p, C9, 1751
+71. Johann Sebastian Bach — B1i, C9, 1685
+72. George Frideric Handel — B1i, C9, 1685
+73. Wolfgang Amadeus Mozart — B1i, C9, 1756
+74. Joseph Haydn — B1i, C9, 1732
+75. Carl Philipp Emanuel Bach — B1i, C9, 1714
+76. Christoph Willibald Gluck — B1i, C9, 1714
+77. Luigi Boccherini — B1i, C9, 1743
+78. Domenico Scarlatti — B1i, C9, 1685
+79. Johann Christian Bach — B1i, C9, 1735
+80. Antonio Salieri — B1i, C9, 1750
+81. Jean-Philippe Rameau — B1i/B1d, C9, 1683
+82. Johann Stamitz — B1i, C9, 1717
+83. Leopold Mozart — B1i/B1y, C9, 1719
+84. Giovanni Battista Pergolesi — B1i, C9, 1710
+85. Johann Melchior Molter — B1i, C9, 1696
+86. Johann Mattheson — B1i/B1d/B1a, C9, 1681
+87. Carl Ditters von Dittersdorf — B1i, C9, 1739
+88. William Billings — B1i, C9, 1746
+89. Georg Philipp Telemann — B1i, C9, 1681
+90. François Couperin — B1i, C9, 1668
+91. William Hogarth — B1h/B1a, C9, 1697
+92. Joshua Reynolds — B1h/B1a, C9, 1723
+93. Johann Joachim Winckelmann — B1l/B1d/B1p/B1a, C9, 1717
+94. Giovanni Battista Piranesi — B1h/B1l, C9, 1720
+95. Francisco Goya — B1h, C11, 1746
+96. Jacques-Louis David — B1h/B1e, C9, 1748
+97. Thomas Gainsborough — B1h, C9, 1727
+98. Jean-Baptiste Greuze — B1h, C9, 1725
+99. Angelica Kauffman — B1h/B1a, C9, 1741
+100. Jean-Honoré Fragonard — B1h, C9, 1732
+101. Richard Price — B1d/B1f/B1a, C9, 1723
+102. Nicolas de Condorcet — B1d/B1m/B1a, C9, 1743
+103. Johann Gottfried Eichhorn — B1l/B1p/B1a, C9, 1752
+104. Johann August Eberhard — B1d/B1a, C9, 1739
+105. Étienne Bonnot de Condillac — B1d/B1a, C9, 1715
+106. Thomas Reid — B1d/B1a, C9, 1710
+107. Dugald Stewart — B1d/B1a/B1y, C9, 1753
+108. William Paley — B1f/B1d/B1a, C9, 1743
+109. Isaac Watts — B1f/B1b/B1a, C9, 1674
+110. Girolamo Tiraboschi — B1l/B1a/B1p, C9, 1731
+111. Edward Gibbon — B1l/B1a/B1x, C9, 1737
+112. James Burnett — B1d/B1a/B1l, C9, 1714
+113. Joseph de Maistre — B1d/B1f/B1a, C9, 1753
+114. Johann Jakob Engel — B1d/B1a, C9, 1741
+115. Hugo Kołłątaj — B1e/B1d/B1f/B1a, C9, 1750
+116. Francesco Mario Pagano — B1e/B1d/B1a, C9, 1748
+117. Christoph Meiners — B1l/B1d/B1a, C9, 1747
+118. Justus Möser — B1l/B1e/B1a, C9, 1720
+119. Jakob Friedrich Fries — B1d/B1a, C9, 1773
+120. Jakob Mauvillon — B1d/B1a, C9, 1743
+121. John Michell — B1g/B1n, C9, 1724
+122. Joseph Banks — B1g/B1l/B1p, C9, 1743
+123. Anders Celsius — B1g/B1n, C9, 1701
+124. Christian Kratzenstein — B1g/B1n, C9, 1723
+125. Anders Chydenius — B1e/B1m/B1d, C9, 1729
+126. Jean-Baptiste Lamarck — B1g/B1d/B1p, C9, 1744
+127. Caspar Friedrich Wolff — B1g/B1p, C9, 1735
+128. Abraham Gotthelf Kästner — B1n/B1p, C9, 1719
+129. James Cook — B1l/B1p/B1g, C9, 1728
+130. Jean Senebier — B1g/B1p, C9, 1742
+131. Georg Christoph Lichtenberg — B1a/B1d/B1x, C9, 1742
+132. Carl Wilhelm Scheele — B1g/B1n, C9, 1742
+133. Jean-Baptiste de Monet (Lamarck) — B1g/B1d/B1p, C9, 1744
+134. Henry Cavendish — B1g/B1n, C9, 1731
+135. James Hutton — B1g/B1p, C9, 1726
+136. Giovanni Arduino — B1g/B1p, C9, 1714
+137. Peter Simon Pallas — B1g/B1l/B1p, C9, 1741
+138. Nicolas Desmarest — B1g/B1p, C9, 1725
+139. John Hunter — B1g/B1p, C9, 1728
+140. Jan Ingenhousz — B1g/B1p, C9, 1730
+141. Jean Paul — B1a/B1b/B1x, C9, 1763
+142. Friedrich Nicolai — B1a/B1p/B1l, C9, 1733
+143. Christoph Friedrich Nicolai — B1a/B1p/B1l, C9, 1733
+144. Johann Heinrich Merck — B1a/B1p/B1x, C9, 1741
+145. Johann Gottlieb Fichte — B1d/B1a, C9, 1762
+146. Friedrich von Matthisson — B1a/B1b, C9, 1761  
+147. Friedrich Leopold zu Stolberg — B1a/B1b/B1f, C9, 1750  
+148. Karl Philipp Moritz — B1a/B1p/B1d, C9, 1756  
+149. Justus Friedrich Wilhelm Zachariae — B1a/B1b, C9, 1726  
+150. John Trumbull — B1a/B1b, C9, 1756  
+151. James Beattie — B1d/B1a/B1b, C9, 1735  
+152. Thomas Percy — B1a/B1l/B1f, C9, 1729  
+153. George Crabbe — B1a/B1b/B1f, C9, 1754  
+154. Mary Wollstonecraft — B1a/B1d/B1x, C9, 1759  
+155. Elizabeth Montagu — B1a/B1x, C9, 1718  
+156. Anna Letitia Barbauld — B1a/B1b/B1x, C9, 1743  
+157. Catharine Macaulay — B1a/B1l/B1x, C9, 1731  
+158. Judith Sargent Murray — B1a/B1x/B1y, C9, 1751  
+159. Hannah More — B1a/B1b/B1f, C9, 1745  
+160. Charlotte Lennox — B1a/B1b, C9, 1730  
+161. Emanuel Swedenborg — B1f/B1d/B1a/B1g, C9, 1688  
+162. George Fox — B1f/B1a/B1v, C9, 1624  
+163. Johann Heinrich Jung-Stilling — B1f/B1a/B1d, C9, 1740  
+164. William Law — B1f/B1d/B1a, C9, 1686  
+165. John Newton — B1f/B1a, C9, 1725  
+166. Johann Lorenz von Mosheim — B1f/B1l/B1p, C9, 1693  
+167. Charles Wesley — B1f/B1b/B1a, C9, 1707  
+168. Richard Baxter — B1f/B1a/B1v, C9, 1615  
+169. Jonathan Mayhew — B1f/B1a, C9, 1720  
+170. Isaac Backus — B1f/B1a, C9, 1724  
+171. John Fletcher — B1f/B1a, C9, 1729  
+172. William Wilberforce — B1e/B1f/B1a, C9, 1759  
+173. Friedrich Schleiermacher — B1f/B1d/B1a, C9, 1768  
+174. Charles Chauncy — B1f/B1a, C9, 1705  
+175. Johann Salomo Semler — B1f/B1d/B1a, C9, 1725  
+176. Alexander Cruden — B1p/B1a, C9, 1699  
+177. John Gill — B1f/B1d/B1a, C9, 1697  
+178. Samuel Hopkins — B1f/B1d/B1a, C9, 1721  
+179. Hugh Blair — B1f/B1a/B1p, C9, 1718  
+180. William Robertson — B1l/B1f/B1a, C9, 1721  
+181. Carl Friedrich Abel — B1i, C9, 1723  
+182. Wilhelm Friedemann Bach — B1i, C9, 1710  
+183. Georg Christoph Wagenseil — B1i, C9, 1715  
+184. Carl Heinrich Graun — B1i, C9, 1703  
+185. Ignaz Pleyel — B1i, C9, 1757  
+186. Luigi Cherubini — B1i, C9, 1760  
+187. Johann David Heinichen — B1i, C9, 1683  
+188. Antonio Soler — B1i/B1f, C11, 1729  
+189. Karl Ditters von Dittersdorf — B1i, C9, 1739  
+190. Tommaso Traetta — B1i, C9, 1727  
+191. Johann Gottlieb Naumann — B1i, C9, 1741  
+192. Antonín Reicha — B1i, C9, 1770  
+193. Giovanni Battista Viotti — B1i, C9, 1755  
+194. Carl Stamitz — B1i, C9, 1745  
+195. Johann Baptist Vanhal — B1i, C9, 1739  
+196. Muzio Clementi — B1i, C9, 1752
+197. François-Joseph Gossec — B1i, C9, 1734
+198. Giovanni Paisiello — B1i, C9, 1740
+199. Niccolò Jommelli — B1i, C9, 1714
+200. Étienne Méhul — B1i, C9, 1763
+1. Georg Wilhelm Friedrich Hegel — B1d/B1a, C9, 1770
+2. Arthur Schopenhauer — B1d/B1a, C9, 1788
+3. Søren Kierkegaard — B1d/B1a/B1f, C9, 1813
+4. Karl Marx — B1d/B1e/B1a/B1x, C9, 1818
+5. Friedrich Engels — B1d/B1e/B1a/B1x, C9, 1820
+6. John Stuart Mill — B1d/B1e/B1a/B1x, C9, 1806
+7. Friedrich Nietzsche — B1d/B1a/B1x, C9, 1844
+8. Alexis de Tocqueville — B1d/B1e/B1a, C9, 1805
+9. Auguste Comte — B1d/B1g/B1a, C9, 1798
+10. Herbert Spencer — B1d/B1g/B1a, C9, 1820
+11. Jeremy Bentham — B1d/B1e/B1a, C9, 1748
+12. Charles Fourier — B1d/B1e/B1a, C9, 1772
+13. Mikhail Bakunin — B1d/B1e/B1a/B1x, C9, 1814
+14. Pierre-Joseph Proudhon — B1d/B1e/B1a/B1x, C9, 1809
+15. Max Stirner — B1d/B1a, C9, 1806
+16. Ludwig Feuerbach — B1d/B1a, C9, 1804
+17. Henry David Thoreau — B1a/B1d/B1x, C9, 1817
+18. Ralph Waldo Emerson — B1a/B1d/B1x, C9, 1803
+19. William James — B1d/B1a, C9, 1842
+20. Wilhelm Dilthey — B1d/B1l/B1a, C9, 1833
+21. Leo Tolstoy — B1a/B1b/B1x, C9, 1828
+22. Fyodor Dostoevsky — B1a/B1b/B1x, C9, 1821
+23. Gustave Flaubert — B1a/B1b, C9, 1821
+24. Charles Dickens — B1a/B1b, C9, 1812
+25. Victor Hugo — B1a/B1b/B1x, C9, 1802
+26. Edgar Allan Poe — B1a/B1b/B1k, C9, 1809
+27. Nathaniel Hawthorne — B1a/B1b, C9, 1804
+28. Herman Melville — B1a/B1b, C9, 1819
+29. Henry James — B1a/B1b, C9, 1843
+30. Mark Twain — B1a/B1b/B1x/B1w, C9, 1835
+31. Emily Brontë — B1a/B1b, C9, 1818
+32. Charlotte Brontë — B1a/B1b, C9, 1816
+33. George Eliot — B1a/B1b/B1x, C9, 1819
+34. Thomas Hardy — B1a/B1b, C9, 1840
+35. Anthony Trollope — B1a/B1b, C9, 1815
+36. Ivan Turgenev — B1a/B1b, C9, 1818
+37. Nikolai Gogol — B1a/B1b/B1x, C9, 1809
+38. Jules Verne — B1a/B1b, C9, 1828
+39. Louisa May Alcott — B1a/B1b, C9, 1832
+40. Stendhal — B1a/B1b/B1x, C9, 1783
+41. Lord Byron — B1a/B1b, C9, 1788
+42. Percy Bysshe Shelley — B1a/B1b, C9, 1792
+43. John Keats — B1a/B1b, C9, 1795
+44. William Wordsworth — B1a/B1b, C9, 1770
+45. Samuel Taylor Coleridge — B1a/B1b/B1d, C9, 1772
+46. Alfred, Lord Tennyson — B1a/B1b, C9, 1809
+47. Robert Browning — B1a/B1b, C9, 1812
+48. Elizabeth Barrett Browning — B1a/B1b, C9, 1806
+49. Walt Whitman — B1a/B1b/B1x, C9, 1819
+50. Emily Dickinson — B1a/B1b, C9, 1830
+51. Stéphane Mallarmé — B1a/B1b, C9, 1842
+52. Charles Baudelaire — B1a/B1b/B1k, C9, 1821
+53. Paul Verlaine — B1a/B1b, C9, 1844
+54. Arthur Rimbaud — B1a/B1b, C9, 1854
+55. Matthew Arnold — B1a/B1b/B1k, C9, 1822
+56. Gerard Manley Hopkins — B1a/B1b/B1f, C9, 1844
+57. Heinrich Heine — B1a/B1b/B1x, C9, 1797
+58. Giacomo Leopardi — B1a/B1b/B1d, C9, 1798
+59. Edgar Quinet — B1a/B1l/B1d, C9, 1803
+60. James Russell Lowell — B1a/B1b/B1k, C9, 1819
+61. Thomas Carlyle — B1a/B1l/B1d/B1x, C9, 1795
+62. John Ruskin — B1a/B1k/B1x, C9, 1819
+63. Hippolyte Taine — B1a/B1d/B1l/B1k, C9, 1828
+64. Jacob Burckhardt — B1l/B1a/B1d, C9, 1818
+65. Francis Parkman — B1l/B1a, C9, 1823
+66. Jules Michelet — B1l/B1a, C9, 1798
+67. William Lecky — B1l/B1a/B1d, C9, 1838
+68. Edward Augustus Freeman — B1l/B1a, C9, 1823
+69. Henry Adams — B1l/B1a/B1p, C9, 1838
+70. Ernest Renan — B1f/B1a/B1l/B1d, C9, 1823
+71. Charles Darwin — B1g/B1p/B1n, C9, 1809
+72. Michael Faraday — B1g/B1p, C9, 1791
+73. James Clerk Maxwell — B1g/B1n, C9, 1831
+74. Carl Friedrich Gauss — B1n/B1g, C9, 1777
+75. Hermann von Helmholtz — B1g/B1n, C9, 1821
+76. Louis Pasteur — B1g/B1p, C9, 1822
+77. Charles Lyell — B1g/B1p, C9, 1797
+78. John Herschel — B1g/B1n/B1p, C9, 1792
+79. Claude Bernard — B1g/B1p, C9, 1813
+80. Gregor Mendel — B1g/B1f/B1p, C9, 1822
+81. William Thomson (Lord Kelvin) — B1g/B1n/B1p, C9, 1824
+82. Ernst Haeckel — B1g/B1d/B1p, C9, 1834
+83. Alfred Russel Wallace — B1g/B1p, C9, 1823
+84. Richard Owen — B1g/B1p, C9, 1804
+85. Ada Lovelace — B1n/B1g/B1p, C9, 1815
+86. Carl Gustav Jacob Jacobi — B1n, C9, 1804
+87. Augustin-Louis Cauchy — B1n, C9, 1789
+88. Bernhard Riemann — B1n/B1g, C9, 1826
+89. Henri Poincaré — B1n/B1g/B1d, C9, 1854
+90. Dmitri Mendeleev — B1g/B1n, C9, 1834
+91. Ludwig van Beethoven — B1i, C9, 1770
+92. Franz Schubert — B1i, C9, 1797
+93. Frédéric Chopin — B1i, C9, 1810
+94. Richard Wagner — B1i/B1a/B1x, C9, 1813
+95. Johannes Brahms — B1i, C9, 1833
+96. Franz Liszt — B1i/B1a/B1x, C9, 1811
+97. Hector Berlioz — B1i/B1a/B1x, C9, 1803
+98. Giuseppe Verdi — B1i, C9, 1813
+99. Anton Bruckner — B1i, C9, 1824
+100. Pyotr Ilyich Tchaikovsky — B1i, C9, 1840
+101. Wilhelm von Humboldt — B1d/B1a/B1p, C9, 1767
+102. Eduard von Hartmann — B1d/B1a, C9, 1842
+103. Johann Gottlieb Fichte — B1d/B1a, C9, 1762
+104. Franz Brentano — B1d/B1f/B1a, C9, 1838
+105. Rudolf Hermann Lotze — B1d/B1a/B1g, C9, 1817
+106. T.H. Green — B1d/B1a/B1f, C9, 1836
+107. Benjamin Constant — B1e/B1d/B1a, C9, 1767
+108. Giambattista Vico — B1d/B1a/B1l, C9, 1668
+109. Joseph de Maistre — B1d/B1f/B1a, C9, 1753
+110. Constantin François de Volney — B1d/B1a/B1e, C9, 1757
+111. Étienne Gilson — B1d/B1f/B1l, C9, 1884
+112. Mikhail Katkov — B1j/B1a/B1x, C9, 1818
+113. Nikolay Chernyshevsky — B1d/B1a/B1x, C9, 1828
+114. Konstantin Leontiev — B1a/B1d/B1x, C9, 1831
+115. Dmitry Pisarev — B1a/B1d/B1x, C9, 1840
+116. Vladimir Solovyov — B1d/B1a/B1f, C9, 1853
+117. Ernest Renan — B1f/B1a/B1l/B1d, C9, 1823
+118. Ferdinand Lassalle — B1e/B1d/B1a, C9, 1825
+119. Wilhelm Windelband — B1d/B1a/B1p, C9, 1848
+120. Karl Ludwig Michelet — B1d/B1a, C9, 1801
+121. José Martí — B1a/B1x/B1e, C11, 1853
+122. Jules Barbey d'Aurevilly — B1a/B1b, C9, 1808
+123. José de Espronceda — B1a/B1b/B1x, C11, 1808
+124. Johann Peter Eckermann — B1a/B1l/B1p, C9, 1792
+125. Giacomo Casanova — B1a/B1e/B1p, C9, 1725
+126. Carl Spitteler — B1a/B1b, C9, 1845
+127. Wilhelm Raabe — B1a/B1b, C9, 1831
+128. Joris-Karl Huysmans — B1a/B1b, C9, 1848
+129. Leopoldo Alas — B1a/B1b/B1x, C11, 1852
+130. José Maria de Eça de Queirós — B1a/B1b, C11, 1845
+131. Alphonse Daudet — B1a/B1b, C9, 1840
+132. Paul Bourget — B1a/B1b/B1d, C9, 1852
+133. George Gissing — B1a/B1b, C9, 1857
+134. Ouida — B1a/B1b, C9, 1839
+135. Theodor Fontane — B1a/B1b, C9, 1819
+136. Charles Reade — B1a/B1b, C9, 1814
+137. William Dean Howells — B1a/B1b/B1x, C9, 1837
+138. W.D. Ross — B1d/B1a, C9, 1877
+139. Ernest Dowson — B1a/B1b, C9, 1867
+140. Théophile Gautier — B1a/B1b/B1k, C9, 1811
+141. Adam Mickiewicz — B1a/B1b/B1x, C9, 1798
+142. Mihai Eminescu — B1a/B1b, C9, 1850
+143. Taras Shevchenko — B1a/B1b/B1x, C9, 1814
+144. Jan Neruda — B1a/B1b/B1x, C9, 1834
+145. Hafez Ibrahim — B1a/B1b, C8, 1871
+146. Heinrich von Kleist — B1a/B1b, C9, 1777
+147. Alfred de Musset — B1a/B1b, C9, 1810
+148. Emanuel Geibel — B1a/B1b, C9, 1815
+149. Friedrich Rückert — B1a/B1b/B1p, C9, 1788
+150. John Clare — B1a/B1b, C9, 1793
+151. Coventry Patmore — B1a/B1b, C9, 1823
+152. Thomas Hood — B1a/B1b/B1x, C9, 1799
+153. Ebenezer Elliott — B1a/B1b/B1x, C9, 1781
+154. Richard Monckton Milnes — B1a/B1b/B1e, C9, 1809
+155. Henry Wadsworth Longfellow — B1a/B1b/B1x, C9, 1807
+156. Joaquin Miller — B1a/B1b, C9, 1837
+157. James Thomson — B1a/B1b, C9, 1834
+158. Edwin Arnold — B1a/B1b/B1x, C9, 1832
+159. Charles Kingsley — B1a/B1b/B1f, C9, 1819
+160. Eugene Field — B1a/B1b, C9, 1850
+161. Ernst Mach — B1g/B1d/B1p, C9, 1838
+162. Hermann Grassmann — B1g/B1n/B1p, C9, 1809
+163. Gustav Kirchhoff — B1g/B1n, C9, 1824
+164. Josiah Willard Gibbs — B1g/B1n, C9, 1839
+165. Justus von Liebig — B1g/B1p, C9, 1803
+166. Jean-Baptiste Dumas — B1g/B1p, C9, 1800
+167. John Tyndall — B1g/B1p/B1x, C9, 1820
+168. Charles Babbage — B1n/B1g/B1x, C9, 1791
+169. William Rowan Hamilton — B1n/B1g, C9, 1805
+170. James Prescott Joule — B1g/B1n, C9, 1818
+171. Rudolf Clausius — B1g/B1n, C9, 1822
+172. George Boole — B1n/B1g/B1p, C9, 1815
+173. Augustus De Morgan — B1n/B1g/B1p, C9, 1806
+174. Arthur Cayley — B1n/B1g, C9, 1821
+175. James Joseph Sylvester — B1n/B1g, C9, 1814
+176. Thomas Huxley — B1g/B1d/B1x, C9, 1825
+177. Jean-Baptiste Lamarck — B1g/B1d/B1p, C9, 1744
+178. Matthias Schleiden — B1g/B1p, C9, 1804
+179. Theodor Schwann — B1g/B1p, C9, 1810
+180. Ernst Abbe — B1g/B1n, C9, 1840
+181. Carl Maria von Weber — B1i, C9, 1786
+182. Felix Mendelssohn — B1i, C9, 1809
+183. Robert Schumann — B1i, C9, 1810
+184. Giacomo Meyerbeer — B1i, C9, 1791
+185. Antonín Dvořák — B1i, C9, 1841
+186. Nikolai Rimsky-Korsakov — B1i, C9, 1844
+187. Modest Mussorgsky — B1i, C9, 1839
+188. Alexander Borodin — B1i/B1g, C9, 1833
+189. Edvard Grieg — B1i, C9, 1843
+190. Mily Balakirev — B1i, C9, 1837
+191. César Franck — B1i, C9, 1822
+192. Camille Saint-Saëns — B1i, C9, 1835
+193. Charles Gounod — B1i, C9, 1818
+194. Carl Czerny — B1i, C9, 1791
+195. Johann Strauss II — B1i, C9, 1825
+196. Bedřich Smetana — B1i, C9, 1824
+197. Édouard Lalo — B1i, C9, 1823
+198. Emmanuel Chabrier — B1i, C9, 1841
+199. Isaac Albéniz — B1i, C11, 1860
+200. Enrique Granados — B1i, C11, 1867
+201. Jules Michelet — B1l/B1a, C9, 1798
+202. John Henry Newman — B1f/B1a/B1d, C9, 1801
+203. Émile Boutroux — B1d/B1a, C9, 1845
+204. Anton Marty — B1d/B1a, C9, 1847
+205. William Whewell — B1d/B1g/B1p, C9, 1794
+206. Thomas Hill Green — B1d/B1f/B1a, C9, 1836
+207. Henry Sidgwick — B1d/B1a/B1p, C9, 1838
+208. Johann Georg Hamann — B1d/B1a/B1x, C9, 1730
+209. Johann Gottfried Herder — B1d/B1a/B1x, C9, 1744
+210. Karl Krause — B1d/B1a, C9, 1781
+211. Orestes Brownson — B1d/B1a/B1f, C9, 1803
+212. Johann Friedrich Herbart — B1d/B1p/B1a, C9, 1776
+213. Vincenzo Gioberti — B1d/B1f/B1a, C9, 1801
+214. Giuseppe Mazzini — B1e/B1d/B1a, C9, 1805
+215. Carlo Cattaneo — B1e/B1d/B1a, C9, 1801
+216. Friedrich Schelling — B1d/B1a, C9, 1775
+217. Lorenz von Stein — B1d/B1e/B1a, C9, 1815
+218. Constantin Frantz — B1d/B1e/B1a, C9, 1817
+219. Hippolyte Adolphe Taine — B1a/B1l/B1d, C9, 1828
+220. Charles Renouvier — B1d/B1a, C9, 1815
+221. Stéphane Mallarmé — B1a/B1b, C9, 1842
+222. Jules Laforgue — B1a/B1b, C9, 1860
+223. Remy de Gourmont — B1a/B1b/B1k, C9, 1858
+224. Edouard Dujardin — B1a/B1b, C9, 1861
+225. Georges Rodenbach — B1a/B1b, C9, 1855
+226. Catulle Mendès — B1a/B1b, C9, 1841
+227. Marcel Schwob — B1a/B1b/B1x, C9, 1867
+228. Jean Lorrain — B1a/B1b/B1x, C9, 1855
+229. August Strindberg — B1a/B1b/B1d/B1x, C9, 1849
+230. Henrik Ibsen — B1a/B1b, C9, 1828
+231. Gerhart Hauptmann — B1a/B1b, C9, 1862
+232. Leopold von Sacher-Masoch — B1a/B1b, C9, 1836
+233. Prosper Mérimée — B1a/B1b, C9, 1803
+234. Alphonse Karr — B1a/B1b/B1j, C9, 1808
+235. Théodore de Banville — B1a/B1b, C9, 1823
+236. Octave Mirbeau — B1a/B1b/B1x, C9, 1848
+237. Charles Nodier — B1a/B1b, C9, 1780
+238. Ernest Feydeau — B1a/B1b, C9, 1821
+239. Paul Adam — B1a/B1b, C9, 1862
+240. Max Nordau — B1d/B1a/B1x, C9, 1849
+241. John Keble — B1f/B1b/B1a, C9, 1792
+242. Walter Savage Landor — B1a/B1b/B1x, C9, 1775
+243. Thomas Love Peacock — B1a/B1b, C9, 1785
+244. James Hogg — B1a/B1b, C9, 1770
+245. John Greenleaf Whittier — B1a/B1b/B1x, C9, 1807
+246. Sidney Lanier — B1a/B1b, C9, 1842
+247. Richard Watson Gilder — B1a/B1b, C9, 1844
+248. Dante Gabriel Rossetti — B1a/B1b/B1h, C9, 1828
+249. Christina Rossetti — B1a/B1b, C9, 1830
+250. Algernon Charles Swinburne — B1a/B1b/B1x, C9, 1837
+251. Théophile de Viau — B1a/B1b, C9, 1590
+252. Marceline Desbordes-Valmore — B1a/B1b, C9, 1786
+253. Wilhelm Müller — B1a/B1b, C9, 1794
+254. Emanuel Geibel — B1a/B1b, C9, 1815
+255. James Clarence Mangan — B1a/B1b, C9, 1803
+256. Joaquim de Almeida Garrett — B1a/B1b/B1e, C11, 1799
+257. Mihail Eminescu — B1a/B1b/B1x, C9, 1850
+258. Ion Luca Caragiale — B1a/B1b/B1x, C9, 1852
+259. Bolesław Prus — B1a/B1b/B1x, C9, 1847
+260. Adam Asnyk — B1a/B1b/B1x, C9, 1838
+261. William Stanley Jevons — B1d/B1m/B1g, C9, 1835
+262. Hermann Ebbinghaus — B1g/B1d/B1p, C9, 1850
+263. Francis Galton — B1g/B1d/B1p, C9, 1822
+264. David Hilbert — B1n/B1g/B1p, C9, 1862
+265. William James — B1d/B1g/B1a, C9, 1842
+266. Gustav Fechner — B1g/B1d, C9, 1801
+267. Rudolf Virchow — B1g/B1p/B1x, C9, 1821
+268. Alexander von Humboldt — B1g/B1p/B1l, C9, 1769
+269. Jean-Baptiste Boussingault — B1g/B1p, C9, 1802
+270. Charles Wheatstone — B1g/B1i/B1p, C9, 1802
+271. Joseph Henry — B1g/B1p, C9, 1797
+272. Gustav Magnus — B1g/B1p, C9, 1802
+273. Christian Doppler — B1g/B1n, C9, 1803
+274. August Beer — B1g/B1p, C9, 1825
+275. Julius Robert von Mayer — B1g/B1p, C9, 1814
+276. Friedrich Wöhler — B1g/B1p, C9, 1800
+277. John Couch Adams — B1g/B1n, C9, 1819
+278. Urbain Le Verrier — B1g/B1n, C9, 1811
+279. Gregorio Ricci-Curbastro — B1n/B1g, C9, 1853
+280. Karl Weierstrass — B1n/B1g, C9, 1815
+281. Érik Satie — B1i, C9, 1866
+282. Alexander Glazunov — B1i, C9, 1865
+283. Ignacy Jan Paderewski — B1i/B1e, C9, 1860
+284. Max Bruch — B1i, C9, 1838
+285. Joachim Raff — B1i, C9, 1822
+286. Hugo Wolf — B1i, C9, 1860
+287. Charles-Marie Widor — B1i, C9, 1844
+288. Vincent d’Indy — B1i/B1a/B1y, C9, 1851
+289. Ferruccio Busoni — B1i/B1a/B1x, C9, 1866
+290. Johann Nepomuk Hummel — B1i, C9, 1778
+291. Adolf von Henselt — B1i, C9, 1814
+292. Friedrich Kalkbrenner — B1i, C9, 1785
+293. Charles-Valentin Alkan — B1i, C9, 1813
+294. Theodor Leschetizky — B1i/B1y, C9, 1830
+295. Julius Röntgen — B1i, C9, 1855
+296. Nikolai Medtner — B1i, C9, 1879
+297. Vasily Kalinnikov — B1i, C9, 1866
+298. Wilhelm Stenhammar — B1i, C9, 1871
+299. Emil von Reznicek — B1i, C9, 1860
+300. Reynaldo Hahn — B1i/B1a, C9, 1874
+1. Ludwig Wittgenstein — B1d/B1a, C9, 1889
+2. Martin Heidegger — B1d/B1a, C9, 1889
+3. Edmund Husserl — B1d/B1a, C9, 1859
+4. Bertrand Russell — B1d/B1n/B1a/B1x, C9, 1872
+5. Alfred North Whitehead — B1d/B1n/B1a, C9, 1861
+6. Henri Bergson — B1d/B1a, C9, 1859
+7. Oswald Spengler — B1d/B1l/B1a, C9, 1880
+8. Georges Sorel — B1d/B1e/B1a, C9, 1847
+9. Walter Benjamin — B1d/B1a/B1l/B1x, C9, 1892
+10. Carl Schmitt — B1d/B1e/B1a, C9, 1888
+11. José Ortega y Gasset — B1d/B1a/B1x, C11, 1883
+12. G.K. Chesterton — B1a/B1b/B1x, C9, 1874
+13. Karl Jaspers — B1d/B1a/B1f, C9, 1883
+14. John Dewey — B1d/B1a/B1y/B1x, C9, 1859
+15. George Santayana — B1d/B1a, C9, 1863
+16. Benedetto Croce — B1d/B1a/B1l/B1x, C9, 1866
+17. Max Scheler — B1d/B1f/B1a, C9, 1874
+18. Nikolai Berdyaev — B1d/B1f/B1a, C9, 1874
+19. Rudolf Steiner — B1d/B1f/B1a/B1x, C9, 1861
+20. Ernst Cassirer — B1d/B1a/B1p, C9, 1874
+21. James Joyce — B1a/B1b, C9, 1882
+22. Franz Kafka — B1a/B1b, C9, 1883
+23. Marcel Proust — B1a/B1b, C9, 1871
+24. T.S. Eliot — B1a/B1b/B1x, C9, 1888
+25. Ezra Pound — B1a/B1b/B1x, C9, 1885
+26. Virginia Woolf — B1a/B1b/B1x, C9, 1882
+27. D.H. Lawrence — B1a/B1b/B1x, C9, 1885
+28. Thomas Mann — B1a/B1b/B1x, C9, 1875
+29. Hermann Hesse — B1a/B1b/B1d, C9, 1877
+30. Rainer Maria Rilke — B1a/B1b, C9, 1875
+31. André Gide — B1a/B1b, C9, 1869
+32. Robert Musil — B1a/B1b/B1d, C9, 1880
+33. Luigi Pirandello — B1a/B1b/B1x, C9, 1867
+34. Italo Svevo — B1a/B1b, C9, 1861
+35. Fernando Pessoa — B1a/B1b, C11, 1888
+36. Gertrude Stein — B1a/B1b/B1x, C9, 1874
+37. Paul Valéry — B1a/B1b/B1d, C9, 1871
+38. W.B. Yeats — B1a/B1b/B1x, C9, 1865
+39. Stéphane Mallarmé — B1a/B1b, C9, 1842
+40. Antonin Artaud — B1a/B1b/B1x, C9, 1896
+41. Albert Einstein — B1g/B1n/B1p, C9, 1879
+42. Niels Bohr — B1g/B1n, C9, 1885
+43. Werner Heisenberg — B1g/B1n, C9, 1901
+44. Erwin Schrödinger — B1g/B1n, C9, 1887
+45. Max Planck — B1g/B1n, C9, 1858
+46. Kurt Gödel — B1n/B1g/B1p, C9, 1906
+47. David Hilbert — B1n/B1g/B1p, C9, 1862
+48. Alfred Korzybski — B1d/B1a, C9, 1879
+49. Norbert Wiener — B1n/B1g/B1p, C9, 1894
+50. Émile Borel — B1n/B1g, C9, 1871
+51. Ludwig Boltzmann — B1g/B1n/B1p, C9, 1844
+52. Henri Poincaré — B1n/B1g/B1d, C9, 1854
+53. Hermann Minkowski — B1n/B1g, C9, 1864
+54. Carl Gustav Jung — B1g/B1d/B1a, C9, 1875
+55. Sigmund Freud — B1g/B1d/B1a, C9, 1856
+56. Alfred Adler — B1g/B1d, C9, 1870
+57. Rudolf Carnap — B1d/B1g/B1p, C9, 1891
+58. Otto Neurath — B1d/B1e/B1g, C9, 1882
+59. Jan Smuts — B1e/B1d/B1a, C9, 1870
+60. G.H. Hardy — B1n/B1p, C9, 1877
+61. Arnold Schoenberg — B1i, C9, 1874
+62. Igor Stravinsky — B1i, C9, 1882
+63. Alban Berg — B1i, C9, 1885
+64. Anton Webern — B1i, C9, 1883
+65. Erik Satie — B1i, C9, 1866
+66. Béla Bartók — B1i/B1p, C9, 1881
+67. Charles Ives — B1i, C9, 1874
+68. Sergei Prokofiev — B1i, C9, 1891
+69. Dmitri Shostakovich — B1i, C9, 1906
+70. Maurice Ravel — B1i, C9, 1875
+71. Claude Debussy — B1i, C9, 1862
+72. Paul Hindemith — B1i, C9, 1895
+73. Ferruccio Busoni — B1i/B1a/B1x, C9, 1866
+74. Carl Orff — B1i, C9, 1895
+75. Alexander Scriabin — B1i/B1a/B1x, C9, 1872
+76. Edgard Varèse — B1i, C9, 1883
+77. Olivier Messiaen — B1i/B1f/B1a, C9, 1908
+78. Leoš Janáček — B1i, C9, 1854
+79. Ottorino Respighi — B1i, C9, 1879
+80. Arthur Honegger — B1i, C9, 1892
+81. Wassily Kandinsky — B1h/B1a/B1d, C9, 1866
+82. Kazimir Malevich — B1h/B1d, C9, 1879
+83. Marcel Duchamp — B1h/B1x, C9, 1887
+84. Piet Mondrian — B1h, C9, 1872
+85. Paul Klee — B1h/B1a, C9, 1879
+86. Giorgio de Chirico — B1h/B1a, C9, 1888
+87. Egon Schiele — B1h, C9, 1890
+88. Oskar Schlemmer — B1h/B1a, C9, 1888
+89. Theo van Doesburg — B1h/B1a, C9, 1883
+90. Le Corbusier — B1h/B1x, C9, 1887
+91. Osip Mandelstam — B1a/B1b/B1x, C9, 1891
+92. Georg Lukács — B1d/B1l/B1a, C9, 1885
+93. Antonio Gramsci — B1d/B1e/B1a/B1x, C9, 1891
+94. Stefan Zweig — B1a/B1b/B1l, C9, 1881
+95. Leon Trotsky — B1e/B1a/B1x, C9, 1879
+96. Alfred Stieglitz — B1h/B1x, C9, 1864
+97. Walter Gropius — B1h/B1x, C9, 1883
+98. John Maynard Keynes — B1m/B1e/B1x, C9, 1883
+99. Thorstein Veblen — B1m/B1a/B1x, C9, 1857
+100. H.L. Mencken — B1a/B1k/B1x, C9, 1880
+101. Franz Rosenzweig — B1d/B1f/B1a, C9, 1886
+102. Simone Weil — B1d/B1f/B1a/B1x, C9, 1909
+103. Ernst Bloch — B1d/B1a, C9, 1885
+104. Karl Mannheim — B1d/B1a/B1x, C9, 1893
+105. Alexandre Kojève — B1d/B1a, C9, 1902
+106. Nikolai Lossky — B1d/B1a, C9, 1870
+107. Peter Wust — B1d/B1f/B1a, C9, 1884
+108. George Edward Moore — B1d/B1a, C9, 1873
+109. Charles Sanders Peirce — B1d/B1g/B1a, C9, 1839
+110. William James — B1d/B1g/B1a, C9, 1842
+111. Moritz Schlick — B1d/B1g, C9, 1882
+112. Hans Reichenbach — B1d/B1g/B1p, C9, 1891
+113. Vilfredo Pareto — B1m/B1d/B1a, C9, 1848
+114. Antonio Labriola — B1d/B1a/B1e, C9, 1843
+115. Giovanni Gentile — B1d/B1a/B1e, C9, 1875
+116. Martin Buber — B1d/B1f/B1a, C9, 1878
+117. Karl Kautsky — B1e/B1a/B1d, C9, 1854
+118. Eduard Bernstein — B1e/B1a/B1d, C9, 1850
+119. Rosa Luxemburg — B1e/B1a/B1d, C9, 1871
+120. Leon Blum — B1e/B1a, C9, 1872
+121. Alfred Döblin — B1a/B1b/B1x, C9, 1878
+122. Blaise Cendrars — B1a/B1b, C9, 1887
+123. Georg Trakl — B1a/B1b, C9, 1887
+124. Gottfried Benn — B1a/B1b/B1x, C9, 1886
+125. Federico García Lorca — B1a/B1b/B1x, C11, 1898
+126. Guillaume Apollinaire — B1a/B1b/B1x, C9, 1880
+127. Jean Cocteau — B1a/B1b/B1x, C9, 1889
+128. Vladimir Mayakovsky — B1a/B1b/B1x, C9, 1893
+129. Paul Éluard — B1a/B1b, C9, 1895
+130. René Char — B1a/B1b, C9, 1907
+131. H.D. (Hilda Doolittle) — B1a/B1b, C9, 1886
+132. Mina Loy — B1a/B1b, C9, 1882
+133. Wallace Stevens — B1a/B1b, C9, 1879
+134. Hart Crane — B1a/B1b, C9, 1899
+135. Marianne Moore — B1a/B1b, C9, 1887
+136. E.E. Cummings — B1a/B1b/B1x, C9, 1894
+137. Ford Madox Ford — B1a/B1b/B1x, C9, 1873
+138. Katherine Mansfield — B1a/B1b, C9, 1888
+139. Djuna Barnes — B1a/B1b/B1x, C9, 1892
+140. Bruno Schulz — B1a/B1b/B1x, C9, 1892
+141. Wolfgang Pauli — B1g/B1n, C9, 1900
+142. Pascual Jordan — B1g/B1n, C9, 1902
+143. John von Neumann — B1g/B1n/B1p, C9, 1903
+144. George Gamow — B1g/B1n, C9, 1904
+145. Theodor Kaluza — B1g/B1n, C9, 1885
+146. Hermann Weyl — B1g/B1n/B1d, C9, 1885
+147. Alexander Friedmann — B1g/B1n, C9, 1888
+148. Alfred Wegener — B1g/B1p, C9, 1880
+149. Hans Bethe — B1g/B1n, C9, 1906
+150. Emmy Noether — B1n/B1g, C9, 1882
+151. Élie Cartan — B1n/B1g, C9, 1869
+152. Jean-Baptiste Perrin — B1g/B1p, C9, 1870
+153. Hans Reichenbach — B1d/B1g/B1p, C9, 1891
+154. Max Born — B1g/B1n, C9, 1882
+155. J.B.S. Haldane — B1g/B1p/B1x, C9, 1892
+156. Julian Huxley — B1g/B1p/B1x, C9, 1887
+157. Ronald Fisher — B1g/B1n/B1p, C9, 1890
+158. Jacques Hadamard — B1n/B1g, C9, 1865
+159. Émile Durkheim — B1d/B1p/B1l, C9, 1858
+160. Bronisław Malinowski — B1g/B1p/B1x, C9, 1884
+161. Frank Bridge — B1i, C9, 1879
+162. George Enescu — B1i, C9, 1881
+163. Alexander Zemlinsky — B1i, C9, 1871
+164. Ernst Krenek — B1i, C9, 1900
+165. Einojuhani Rautavaara — B1i, C9, 1928
+166. John Alden Carpenter — B1i, C9, 1876
+167. Edgar Varèse — B1i, C9, 1883
+168. Heitor Villa-Lobos — B1i, C13, 1887
+169. Silvestre Revueltas — B1i, C13, 1899
+170. Francis Poulenc — B1i, C9, 1899
+171. Darius Milhaud — B1i, C9, 1892
+172. Nicolai Roslavets — B1i, C9, 1881
+173. Dmitri Kabalevsky — B1i, C9, 1904
+174. Josef Suk — B1i, C9, 1874
+175. Alfredo Casella — B1i, C9, 1883
+176. Havergal Brian — B1i, C9, 1876
+177. Luigi Russolo — B1i/B1h, C9, 1885
+178. Arthur Bliss — B1i, C9, 1891
+179. Manuel de Falla — B1i, C11, 1876
+180. Kaikhosru Shapurji Sorabji — B1i, C9, 1892
+181. El Lissitzky — B1h/B1x, C9, 1890
+182. László Moholy-Nagy — B1h/B1x, C9, 1895
+183. Gabriele Münter — B1h, C9, 1877
+184. Franz Marc — B1h, C9, 1880
+185. Ernst Ludwig Kirchner — B1h, C9, 1880
+186. Max Beckmann — B1h, C9, 1884
+187. Otto Dix — B1h, C9, 1891
+188. Lyonel Feininger — B1h/B1x, C9, 1871
+189. Gustav Klimt — B1h, C9, 1862
+190. Egon Schiele — B1h, C9, 1890
+191. Aby Warburg — B1l/B1a/B1p, C9, 1866
+192. Hugo Ball — B1a/B1b/B1x, C9, 1886
+193. Tristan Tzara — B1a/B1b/B1x, C9, 1896
+194. Hans Arp — B1a/B1b/B1h, C9, 1886
+195. Jean Epstein — B1r/B1a, C9, 1897
+196. Béla Balázs — B1a/B1b/B1r, C9, 1884
+197. Sergei Eisenstein — B1r/B1x/B1a, C9, 1898
+198. Dziga Vertov — B1r/B1x, C9, 1896
+199. Walter Ruttmann — B1r/B1h, C9, 1887
+200. Vsevolod Pudovkin — B1r/B1a, C9, 1893
+201. Gustav Landauer — B1d/B1e/B1a/B1x, C9, 1870
+202. Max Stirner — B1d/B1a, C9, 1806
+203. Emma Goldman — B1e/B1j/B1x/B1a, C9, 1869
+204. Georges Bataille — B1d/B1a/B1x, C9, 1897
+205. Pierre Drieu La Rochelle — B1a/B1e/B1x, C9, 1893
+206. Ernst Niekisch — B1d/B1e/B1x, C9, 1889
+207. Alexandre Koyré — B1d/B1l/B1p, C9, 1892
+208. Karl Barth — B1d/B1f/B1a, C9, 1886
+209. Reinhold Niebuhr — B1d/B1f/B1x, C9, 1892
+210. Rudolf Otto — B1d/B1f, C9, 1869
+211. Walter Kaufmann — B1d/B1a/B1x, C9, 1921
+212. Gaston Bachelard — B1d/B1p/B1a, C9, 1884
+213. Lucien Lévy-Bruhl — B1d/B1p/B1a, C9, 1857
+214. George Boas — B1d/B1a, C9, 1891
+215. Alfred Ayer — B1d/B1a/B1x, C9, 1910
+216. Étienne Gilson — B1d/B1f/B1l, C9, 1884
+217. Charles Maurras — B1a/B1e/B1x, C9, 1868
+218. Giovanni Papini — B1a/B1d/B1x, C9, 1881
+219. Ernst Röhm — B1e, C9, 1887
+220. André Malraux — B1a/B1x/B1e, C9, 1901
+221. Franz Werfel — B1a/B1b, C9, 1890
+222. Robert Walser — B1a/B1b, C9, 1878
+223. Jean Genet — B1a/B1b/B1x, C9, 1910
+224. Emmanuel Bove — B1a, C9, 1898
+225. Ramón del Valle-Inclán — B1a/B1b, C11, 1866
+226. Joris-Karl Huysmans — B1a/B1b, C9, 1848
+227. Georges Bernanos — B1a/B1b/B1f, C9, 1888
+228. Curzio Malaparte — B1a/B1e/B1x, C9, 1898
+229. Jean Paulhan — B1a/B1k, C9, 1884
+230. Roger Caillois — B1d/B1a/B1l, C9, 1913
+231. Claude Cahun — B1a/B1h, C9, 1894
+232. Leonora Carrington — B1a/B1h, C9, 1917
+233. René Daumal — B1a/B1b/B1x, C9, 1908
+234. Carl Sternheim — B1a/B1b, C9, 1878
+235. Knut Hamsun — B1a/B1b, C9, 1859
+236. Sándor Márai — B1a/B1b, C9, 1900
+237. Jean Giraudoux — B1a/B1b, C9, 1882
+238. Stefan George — B1a/B1b/B1x, C9, 1868
+239. Paul Léautaud — B1a/B1k, C9, 1872
+240. Joseph Roth — B1a/B1b/B1x, C9, 1894
+241. Nikola Tesla — B1g/B1n/B1p, C9, 1856
+242. Georges Lemaître — B1g/B1f/B1n, C9, 1894
+243. Charles Richet — B1g/B1p, C9, 1850
+244. Alexis Carrel — B1g/B1p, C9, 1873
+245. Alexander Oparin — B1g/B1p, C9, 1894
+246. Archibald Vivian Hill — B1g/B1n, C9, 1886
+247. G.N. Lewis — B1g/B1n, C9, 1875
+248. Ernest Rutherford — B1g/B1n, C9, 1871
+249. Lise Meitner — B1g/B1n, C9, 1878
+250. Irving Langmuir — B1g/B1n, C9, 1881
+251. Vannevar Bush — B1g/B1p/B1x, C9, 1890
+252. John B. Watson — B1g/B1p/B1d, C9, 1878
+253. Lev Vygotsky — B1g/B1p/B1d, C9, 1896
+254. Kurt Lewin — B1g/B1p, C9, 1890
+255. Alfred Kinsey — B1g/B1p/B1x, C9, 1894
+256. William Bateson — B1g/B1p, C9, 1861
+257. Pierre Duhem — B1g/B1d/B1p, C9, 1861
+258. Lewis Fry Richardson — B1g/B1n/B1p, C9, 1881
+259. Ludwik Fleck — B1g/B1p/B1d, C9, 1896
+260. Sergei Vavilov — B1g/B1p, C9, 1891
+261. Josef Matthias Hauer — B1i, C9, 1883
+262. Alberto Ginastera — B1i, C13, 1916
+263. Mieczysław Karłowicz — B1i, C9, 1876
+264. Carlos Chávez — B1i, C13, 1899
+265. Walter Piston — B1i, C9, 1894
+266. Bohuslav Martinů — B1i, C9, 1890
+267. Nikolai Myaskovsky — B1i, C9, 1881
+268. Ernest Bloch — B1i, C9, 1880
+269. Zoltán Kodály — B1i/B1y, C9, 1882
+270. Alexander Mosolov — B1i, C9, 1900
+271. Havergal Brian — B1i, C9, 1876
+272. Charles Koechlin — B1i, C9, 1867
+273. Gian Francesco Malipiero — B1i, C9, 1882
+274. Roy Harris — B1i, C9, 1898
+275. William Walton — B1i, C9, 1902
+276. John Ireland — B1i, C9, 1879
+277. Arthur Honegger — B1i, C9, 1892
+278. Mario Castelnuovo-Tedesco — B1i, C9, 1895
+279. Jean Sibelius — B1i, C9, 1865
+280. Alan Hovhaness — B1i, C9, 1911
+281. Francis Picabia — B1h/B1x, C9, 1879
+282. Kurt Schwitters — B1h/B1a, C9, 1887
+283. Hannah Höch — B1h, C9, 1889
+284. Sophie Taeuber-Arp — B1h, C9, 1889
+285. Carlo Carrà — B1h, C9, 1881
+286. Giacomo Balla — B1h, C9, 1871
+287. Umberto Boccioni — B1h, C9, 1882
+288. Natalia Goncharova — B1h, C9, 1881
+289. Mikhail Larionov — B1h, C9, 1881
+290. Max Ernst — B1h/B1a, C9, 1891
+291. Hans Bellmer — B1h/B1a, C9, 1902
+292. André Masson — B1h/B1a, C9, 1896
+293. Giorgio Morandi — B1h, C9, 1890
+294. Paul Delvaux — B1h, C9, 1897
+295. Félix Vallotton — B1h, C9, 1865
+296. Chaïm Soutine — B1h, C9, 1893
+297. Amedeo Modigliani — B1h, C9, 1884
+298. Alberto Giacometti — B1h/B1a, C9, 1901
+299. Diego Rivera — B1h/B1x, C13, 1886
+300. Joaquín Torres-García — B1h/B1x, C13, 1874
+1. Jean-Paul Sartre — B1d/B1a/B1x, C9, 1905
+2. Simone de Beauvoir — B1d/B1a/B1x, C9, 1908
+3. Albert Camus — B1d/B1a/B1x, C9, 1913
+4. Hannah Arendt — B1d/B1a/B1x, C9, 1906
+5. Theodor Adorno — B1d/B1a/B1x, C9, 1903
+6. Max Horkheimer — B1d/B1a/B1x, C9, 1895
+7. Herbert Marcuse — B1d/B1a/B1x, C9, 1898
+8. Michel Foucault — B1d/B1a/B1x, C9, 1926
+9. Jacques Derrida — B1d/B1a/B1x, C9, 1930
+10. Gilles Deleuze — B1d/B1a/B1x, C9, 1925
+11. Félix Guattari — B1d/B1a/B1x, C9, 1930
+12. Karl Popper — B1d/B1a/B1x, C9, 1902
+13. Ludwig Wittgenstein — B1d/B1a, C9, 1889
+14. Isaiah Berlin — B1d/B1a/B1x, C9, 1909
+15. Richard Rorty — B1d/B1a/B1x, C9, 1931
+16. Noam Chomsky — B1d/B1g/B1a/B1x, C9, 1928
+17. John Rawls — B1d/B1a, C9, 1921
+18. Thomas Kuhn — B1d/B1a/B1l, C9, 1922
+19. Paul Feyerabend — B1d/B1a/B1x, C9, 1924
+20. Jürgen Habermas — B1d/B1a/B1x, C9, 1929
+21. Samuel Beckett — B1a/B1b/B1x, C9, 1906
+22. Jorge Luis Borges — B1a/B1b/B1x, C13, 1899
+23. Vladimir Nabokov — B1a/B1b/B1x, C9, 1899
+24. Thomas Pynchon — B1a/B1x, C9, 1937
+25. Italo Calvino — B1a/B1b/B1x, C9, 1923
+26. Umberto Eco — B1a/B1d/B1x, C9, 1932
+27. Gabriel García Márquez — B1a/B1b, C13, 1927
+28. Milan Kundera — B1a/B1b/B1x, C9, 1929
+29. Philip K. Dick — B1a/B1x, C9, 1928
+30. William S. Burroughs — B1a/B1b/B1x, C9, 1914
+31. Allen Ginsberg — B1a/B1b/B1x, C9, 1926
+32. Jack Kerouac — B1a/B1b/B1x, C9, 1922
+33. Charles Bukowski — B1a/B1b/B1x, C9, 1920
+34. Günter Grass — B1a/B1b/B1x, C9, 1927
+35. Yukio Mishima — B1a/B1b/B1x, C7, 1925
+36. Saul Bellow — B1a/B1x, C9, 1915
+37. Kurt Vonnegut — B1a/B1x, C9, 1922
+38. Doris Lessing — B1a/B1x, C9, 1919
+39. Anthony Burgess — B1a/B1b/B1x, C9, 1917
+40. J.G. Ballard — B1a/B1x, C9, 1930
+41. Richard Feynman — B1g/B1x, C9, 1918
+42. Stephen Hawking — B1g/B1n/B1x, C9, 1942
+43. Carl Sagan — B1g/B1x/B1a, C9, 1934
+44. Claude Shannon — B1g/B1n/B1p, C9, 1916
+45. Alan Turing — B1g/B1n/B1aa, C9, 1912
+46. John von Neumann — B1g/B1n/B1aa, C9, 1903
+47. Marvin Minsky — B1g/B1aa/B1x, C9, 1927
+48. Norbert Wiener — B1g/B1n/B1aa, C9, 1894
+49. Benoit Mandelbrot — B1g/B1n, C9, 1924
+50. Edward Lorenz — B1g/B1n, C9, 1917
+51. Karlheinz Stockhausen — B1i, C9, 1928
+52. John Cage — B1i/B1x, C9, 1912
+53. Pierre Boulez — B1i/B1x, C9, 1925
+54. Luigi Nono — B1i/B1x, C9, 1924
+55. Iannis Xenakis — B1i/B1n/B1x, C9, 1922
+56. Morton Feldman — B1i, C9, 1926
+57. György Ligeti — B1i, C9, 1923
+58. Arvo Pärt — B1i, C9, 1935
+59. Steve Reich — B1i, C9, 1936
+60. Philip Glass — B1i, C9, 1937
+61. Stanley Kubrick — B1r/B1x, C9, 1928
+62. Andrei Tarkovsky — B1r/B1x, C9, 1932
+63. Ingmar Bergman — B1r/B1x, C9, 1918
+64. Jean-Luc Godard — B1r/B1x, C9, 1930
+65. Federico Fellini — B1r/B1x, C9, 1920
+66. Michelangelo Antonioni — B1r/B1x, C9, 1912
+67. Akira Kurosawa — B1r/B1x, C7, 1910
+68. Robert Bresson — B1r/B1x, C9, 1901
+69. Rainer Werner Fassbinder — B1r/B1x, C9, 1945
+70. Luis Buñuel — B1r/B1x, C11, 1900
+71. Marcel Duchamp — B1h/B1x, C9, 1887
+72. Francis Bacon — B1h/B1x, C9, 1909
+73. Mark Rothko — B1h/B1x, C9, 1903
+74. Andy Warhol — B1h/B1x, C9, 1928
+75. Joseph Beuys — B1h/B1x, C9, 1921
+76. Jean-Michel Basquiat — B1h/B1x, C9, 1960
+77. Donald Judd — B1h, C9, 1928
+78. Louise Bourgeois — B1h, C9, 1911
+79. Anselm Kiefer — B1h, C9, 1945
+80. Gerhard Richter — B1h, C9, 1932
+81. George Orwell — B1a/B1x/B1e, C9, 1903
+82. Aldous Huxley — B1a/B1x, C9, 1894
+83. Christopher Lasch — B1d/B1a/B1x, C9, 1932
+84. Marshall McLuhan — B1d/B1x/B1a, C9, 1911
+85. Edward Said — B1d/B1a/B1x, C9, 1935
+86. Eric Hobsbawm — B1l/B1a/B1x, C9, 1917
+87. Raymond Aron — B1d/B1a/B1x, C9, 1905
+88. Hannah Arendt — B1d/B1a/B1x, C9, 1906
+89. Václav Havel — B1a/B1b/B1e/B1x, C9, 1936
+90. Aleksandr Solzhenitsyn — B1a/B1x, C9, 1918
+91. Susan Sontag — B1a/B1k/B1x, C9, 1933
+92. Kenneth Clark — B1l/B1a/B1x, C9, 1903
+93. Harold Bloom — B1k/B1a/B1x, C9, 1930
+94. Northrop Frye — B1k/B1a/B1x, C9, 1912
+95. Camille Paglia — B1d/B1a/B1k/B1x, C9, 1947
+96. George Steiner — B1a/B1k/B1x, C9, 1929
+97. Ivan Illich — B1d/B1a/B1x, C9, 1926
+98. Neil Postman — B1a/B1x, C9, 1931
+99. Guy Debord — B1d/B1a/B1x, C9, 1931
+100. Roland Barthes — B1d/B1a/B1k/B1x, C9, 1915
+101. Leo Strauss — B1d/B1a/B1x, C9, 1899
+102. Alasdair MacIntyre — B1d/B1a, C9, 1929
+103. Bernard Williams — B1d/B1a, C9, 1929
+104. Emmanuel Levinas — B1d/B1a/B1x, C9, 1906
+105. Hans-Georg Gadamer — B1d/B1a, C9, 1900
+106. Maurice Merleau-Ponty — B1d/B1a, C9, 1908
+107. Cornelius Castoriadis — B1d/B1e/B1a, C9, 1922
+108. Imre Lakatos — B1d/B1n, C9, 1922
+109. Ernest Gellner — B1d/B1l/B1a/B1x, C9, 1925
+110. Raymond Williams — B1a/B1d/B1k/B1x, C9, 1921
+111. Leszek Kołakowski — B1d/B1a/B1x, C9, 1927
+112. Hans Jonas — B1d/B1f/B1a, C9, 1903
+113. Michel Serres — B1d/B1a, C9, 1930
+114. Jean Baudrillard — B1d/B1a/B1x, C9, 1929
+115. Ivan Sviták — B1d/B1a, C9, 1925
+116. André Gorz — B1d/B1e/B1x, C9, 1923
+117. Luigi Pareyson — B1d/B1a, C9, 1918
+118. Roberto Mangabeira Unger — B1d/B1e/B1x, C13, 1947
+119. Hans Blumenberg — B1d/B1a, C9, 1920
+120. Paul Ricœur — B1d/B1a, C9, 1913
+121. Elias Canetti — B1a/B1b/B1x, C9, 1905
+122. John Fowles — B1a/B1b, C9, 1926
+123. Robert Musil — B1a/B1b/B1d, C9, 1880
+124. Ryszard Kapuściński — B1a/B1q, C9, 1932
+125. Isaiah Berlin — B1d/B1a/B1x, C9, 1909
+126. Elias Khoury — B1a/B1x, C8, 1948
+127. Bruce Chatwin — B1a/B1x, C9, 1940
+128. Clarice Lispector — B1a/B1b, C13, 1920
+129. Jean Giono — B1a/B1b, C9, 1895
+130. Romain Gary — B1a/B1x, C9, 1914
+131. Julien Gracq — B1a/B1b, C9, 1910
+132. Patrick Modiano — B1a/B1x, C9, 1945
+133. Natalia Ginzburg — B1a/B1b, C9, 1916
+134. Fernando Pessoa — B1a/B1b, C13, 1888
+135. Paul Bowles — B1a/B1x, C9, 1910
+136. Nathalie Sarraute — B1a/B1b, C9, 1900
+137. Robert Walser — B1a/B1b, C9, 1878
+138. José Saramago — B1a/B1b, C13, 1922
+139. Marguerite Yourcenar — B1a/B1b, C9, 1903
+140. Anna Kavan — B1a/B1b, C9, 1901
+141. Gregory Bateson — B1g/B1d/B1x, C9, 1904
+142. Heinz von Foerster — B1g/B1d/B1x, C9, 1911
+143. Ilya Prigogine — B1g/B1n/B1x, C9, 1917
+144. Manfred Eigen — B1g/B1n, C9, 1927
+145. Roger Penrose — B1g/B1n/B1x, C9, 1931
+146. Freeman Dyson — B1g/B1n/B1x, C9, 1923  
+147. Murray Gell-Mann — B1g/B1n/B1x, C9, 1929  
+148. Richard Dawkins — B1g/B1a/B1x, C9, 1941  
+149. Donald Knuth — B1g/B1n/B1aa, C9, 1938  
+150. John Archibald Wheeler — B1g/B1n/B1x, C9, 1911  
+151. Jacob Bronowski — B1g/B1a/B1x, C9, 1908  
+152. J. Robert Oppenheimer — B1g/B1x, C9, 1904  
+153. David Bohm — B1g/B1d, C9, 1917  
+154. Thomas Schelling — B1e/B1m/B1x, C9, 1921  
+155. John Searle — B1d/B1a, C9, 1932  
+156. Noam Chomsky — B1d/B1g/B1a/B1x, C9, 1928  
+157. Michael Polanyi — B1g/B1d/B1a, C9, 1891  
+158. E.O. Wilson — B1g/B1a/B1x, C9, 1929  
+159. Paul Dirac — B1g/B1n, C9, 1902  
+160. Barbara McClintock — B1g, C9, 1902  
+161. Alfred Schnittke — B1i, C9, 1934  
+162. Toru Takemitsu — B1i, C7, 1930  
+163. Henryk Górecki — B1i, C9, 1933  
+164. Sofia Gubaidulina — B1i, C9, 1931  
+165. Olivier Messiaen — B1i, C9, 1908  
+166. Giacinto Scelsi — B1i, C9, 1905  
+167. Galina Ustvolskaya — B1i, C9, 1919  
+168. Hans Werner Henze — B1i, C9, 1926  
+169. Mauricio Kagel — B1i, C9, 1931  
+170. La Monte Young — B1i, C9, 1935  
+171. Terry Riley — B1i, C9, 1935  
+172. Pauline Oliveros — B1i/B1x, C9, 1932  
+173. Cornelius Cardew — B1i/B1x, C9, 1936  
+174. Brian Eno — B1i/B1x, C9, 1948  
+175. Meredith Monk — B1i/B1x, C9, 1942  
+176. Glenn Gould — B1i, C9, 1932  
+177. Elliott Carter — B1i, C9, 1908  
+178. Michael Tippett — B1i, C9, 1905  
+179. Robert Ashley — B1i, C9, 1930  
+180. Morton Subotnick — B1i, C9, 1933  
+181. Sergei Parajanov — B1r/B1x, C9, 1924  
+182. Theo Angelopoulos — B1r/B1x, C9, 1935  
+183. Alain Resnais — B1r/B1x, C9, 1922  
+184. Chris Marker — B1r/B1x, C9, 1921  
+185. Peter Greenaway — B1r/B1x, C9, 1942  
+186. Derek Jarman — B1r/B1x, C9, 1942  
+187. Chantal Akerman — B1r/B1x, C9, 1950  
+188. Béla Tarr — B1r/B1x, C9, 1955  
+189. Krzysztof Kieślowski — B1r/B1x, C9, 1941  
+190. Miklós Jancsó — B1r/B1x, C9, 1921  
+191. Ousmane Sembène — B1r/B1a/B1x, C13, 1923  
+192. Ken Russell — B1r/B1x, C9, 1927  
+193. Peter Brook — B1r/B1x/B1b, C9, 1925  
+194. Jean-Marie Straub — B1r/B1x, C9, 1933  
+195. Danièle Huillet — B1r/B1x, C9, 1936  
+196. Claude Lanzmann — B1r/B1a/B1x, C9, 1925
+197. Nagisa Oshima — B1r/B1x, C7, 1932
+198. Shohei Imamura — B1r/B1x, C7, 1926
+199. Satyajit Ray — B1r/B1x/B1a, C7, 1921
+200. Hiroshi Teshigahara — B1r/B1x, C7, 1927
+201. Georges Bataille — B1d/B1a/B1x, C9, 1897
+202. Guy Debord — B1d/B1a/B1x, C9, 1931
+203. Jean-François Lyotard — B1d/B1a/B1x, C9, 1924
+204. Claude Lévi-Strauss — B1d/B1p/B1x, C9, 1908
+205. Michel de Certeau — B1d/B1a/B1l, C9, 1925
+206. Pierre Bourdieu — B1d/B1p/B1x, C9, 1930
+207. Ernesto Laclau — B1d/B1p/B1x, C13, 1935
+208. Chantal Mouffe — B1d/B1p/B1x, C13, 1943
+209. George Grant — B1d/B1a/B1x, C9, 1918
+210. Peter Winch — B1d/B1a, C9, 1926
+211. Stephen Toulmin — B1d/B1a/B1x, C9, 1922
+212. Agnes Heller — B1d/B1a/B1x, C9, 1929
+213. Zygmunt Bauman — B1d/B1a/B1x, C9, 1925
+214. Ivan Illich — B1d/B1a/B1x, C9, 1926
+215. Étienne Balibar — B1d/B1a/B1x, C9, 1942
+216. Reinhart Koselleck — B1d/B1l/B1a, C9, 1923
+217. Raymond Geuss — B1d/B1a, C9, 1946
+218. Gianni Vattimo — B1d/B1a/B1x, C9, 1936
+219. Stanley Cavell — B1d/B1a, C9, 1926
+220. Susan Haack — B1d/B1a, C9, 1945
+221. William Gaddis — B1a/B1x, C9, 1922
+222. John Barth — B1a/B1x, C9, 1930
+223. Donald Barthelme — B1a/B1x, C9, 1931
+224. Thomas Bernhard — B1a/B1b, C9, 1931
+225. W.G. Sebald — B1a/B1b, C9, 1944
+226. Georges Perec — B1a/B1b, C9, 1936
+227. Alain Robbe-Grillet — B1a/B1b, C9, 1922
+228. B.S. Johnson — B1a/B1b, C9, 1933
+229. Claude Simon — B1a/B1b, C9, 1913
+230. Witold Gombrowicz — B1a/B1b, C9, 1904
+231. Peter Handke — B1a/B1b, C9, 1942
+232. Robert Coover — B1a/B1x, C9, 1932
+233. Nathanael West — B1a/B1x, C9, 1903
+234. Shirley Jackson — B1a/B1x, C9, 1916
+235. Michel Butor — B1a/B1b, C9, 1926
+236. Paul Celan — B1b/B1a, C9, 1920
+237. Ted Hughes — B1b/B1a, C9, 1930
+238. Sylvia Plath — B1b/B1a, C9, 1932
+239. Octavio Paz — B1b/B1a/B1x, C13, 1914
+240. Yevgeny Zamyatin — B1a/B1x, C9, 1884
+241. Kurt Gödel — B1d/B1n, C9, 1906
+242. Claude Lévi-Strauss — B1d/B1p/B1x, C9, 1908
+243. Konrad Lorenz — B1g/B1p/B1x, C9, 1903
+244. Karl Pribram — B1g/B1p/B1x, C9, 1919
+245. Ernst Mayr — B1g/B1p/B1x, C9, 1904
+246. Humberto Maturana — B1g/B1p/B1x, C13, 1928
+247. Francisco Varela — B1g/B1p/B1d/B1x, C13, 1946
+248. Richard Lewontin — B1g/B1p/B1x, C9, 1929
+249. Lynn Margulis — B1g/B1p/B1x, C9, 1938
+250. David Marr — B1g/B1p, C9, 1945
+251. Stanislas Dehaene — B1g/B1p, C9, 1965
+252. Jean Piaget — B1g/B1p/B1d, C9, 1896
+253. B.F. Skinner — B1g/B1p/B1x, C9, 1904
+254. Heinz Pagels — B1g/B1x, C9, 1939
+255. Paul Erdős — B1n/B1g, C9, 1913
+256. Donald Hebb — B1g/B1p, C9, 1904
+257. Michael Gazzaniga — B1g/B1p, C9, 1939
+258. Marvin Harris — B1p/B1d/B1x, C9, 1927
+259. David Hull — B1g/B1p/B1d, C9, 1935
+260. Philip Anderson — B1g/B1n, C9, 1923
+261. John Zorn — B1i, C9, 1953
+262. Franco Battiato — B1i/B1x, C9, 1945
+263. Scott Walker — B1i/B1x, C9, 1943
+264. Klaus Schulze — B1i, C9, 1947
+265. Edgar Froese — B1i, C9, 1944
+266. Vangelis — B1i, C9, 1943
+267. Ryuichi Sakamoto — B1i/B1x, C7, 1952
+268. Laurie Anderson — B1i/B1h/B1x, C9, 1947
+269. Jon Hassell — B1i, C9, 1937
+270. Glenn Branca — B1i/B1x, C9, 1948
+271. Gavin Bryars — B1i, C9, 1943
+272. Anthony Braxton — B1i, C9, 1945
+273. Harry Partch — B1i/B1x, C9, 1901
+274. Moondog — B1i, C9, 1916
+275. Pierre Schaeffer — B1i/B1x, C9, 1910
+276. Pierre Henry — B1i, C9, 1927
+277. Tod Dockstader — B1i, C9, 1932
+278. Pauline Kael — B1k/B1a/B1x, C9, 1919
+279. John Fahey — B1i, C9, 1939
+280. Robbie Basho — B1i, C9, 1940
+281. Jonas Mekas — B1r/B1a/B1x, C9, 1922
+282. Kenneth Anger — B1r/B1x, C9, 1927
+283. Jean Eustache — B1r, C9, 1938
+284. Jacques Rivette — B1r/B1x, C9, 1928
+285. Manoel de Oliveira — B1r/B1x, C13, 1908
+286. Marguerite Duras — B1r/B1a/B1x, C9, 1914
+287. Alain Tanner — B1r, C9, 1929
+288. Werner Herzog — B1r/B1x, C9, 1942
+289. Alexander Sokurov — B1r/B1x, C9, 1951
+290. Peter Watkins — B1r/B1x, C9, 1935
+291. Patricio Guzmán — B1r/B1x, C13, 1941
+292. Béla Balázs — B1d/B1a/B1r, C9, 1884
+293. Frank Perry — B1r, C9, 1930
+294. Robert Kramer — B1r/B1x, C9, 1939
+295. John Cassavetes — B1r/B1x, C9, 1929
+296. Monte Hellman — B1r, C9, 1932
+297. Nicholas Ray — B1r, C9, 1911
+298. Chris Petit — B1r, C9, 1949
+299. Raúl Ruiz — B1r/B1x, C13, 1941
+300. Edward Yang — B1r/B1x, C7, 1947
+1. Peter Sloterdijk — B1d/B1a/B1x, C9, 1947
+2. Giorgio Agamben — B1d/B1a/B1x, C9, 1942
+3. Slavoj Žižek — B1d/B1a/B1x, C9, 1949
+4. Byung-Chul Han — B1d/B1a/B1x, C9, 1959
+5. Markus Gabriel — B1d/B1a, C9, 1980
+6. Quentin Meillassoux — B1d/B1a, C9, 1967
+7. Graham Harman — B1d/B1a, C9, 1968
+8. Alain Badiou — B1d/B1a/B1x, C9, 1937
+9. Martha Nussbaum — B1d/B1a/B1x, C9, 1947
+10. Timothy Morton — B1d/B1a/B1x, C9, 1968
+11. John Gray — B1d/B1a/B1x, C9, 1948
+12. Rebecca Goldstein — B1d/B1a/B1x, C9, 1950
+13. Raymond Geuss — B1d/B1a, C9, 1946
+14. Michael Sandel — B1d/B1a/B1x, C9, 1953
+15. Roger Scruton — B1d/B1a/B1x, C9, 1944
+16. Thomas Nagel — B1d/B1a, C9, 1937
+17. David Chalmers — B1d/B1a, C9, 1966
+18. Galen Strawson — B1d/B1a, C9, 1952
+19. Nick Bostrom — B1d/B1a/B1x, C9, 1973
+20. Catherine Malabou — B1d/B1a, C9, 1959
+21. Michel Houellebecq — B1a/B1b/B1x, C9, 1956
+22. Karl Ove Knausgård — B1a, C9, 1968
+23. Rachel Cusk — B1a, C9, 1967
+24. Roberto Bolaño — B1a/B1b, C11, 1953
+25. Jonathan Franzen — B1a, C9, 1959
+26. Zadie Smith — B1a, C9, 1975
+27. Ian McEwan — B1a/B1b, C9, 1948
+28. Margaret Atwood — B1a/B1b/B1x, C9, 1939
+29. Ben Lerner — B1a/B1b, C9, 1979
+30. Sheila Heti — B1a, C9, 1976
+31. Elif Batuman — B1a/B1x, C9, 1977
+32. Don DeLillo — B1a, C9, 1936
+33. Marlon James — B1a, C9, 1970
+34. David Foster Wallace — B1a/B1x, C9, 1962
+35. Teju Cole — B1a/B1x, C9, 1975
+36. Tao Lin — B1a, C9, 1983
+37. Enrique Vila-Matas — B1a, C11, 1948
+38. Olga Tokarczuk — B1a/B1b, C9, 1962
+39. W.G. Sebald — B1a/B1x, C9, 1944
+40. Hélène Cixous — B1a/B1b/B1x, C9, 1937
+41. Freeman Dyson — B1g/B1p/B1x, C9, 1923
+42. Roger Penrose — B1g/B1n/B1d, C9, 1931
+43. Edward Witten — B1g/B1n, C9, 1951
+44. Lee Smolin — B1g/B1x, C9, 1955
+45. Stephen Wolfram — B1g/B1n/B1x, C9, 1959
+46. Sean Carroll — B1g/B1x, C9, 1966
+47. Max Tegmark — B1g/B1n/B1x, C9, 1967
+48. Carlo Rovelli — B1g/B1d/B1x, C9, 1956
+49. David Deutsch — B1g/B1n/B1x, C9, 1953
+50. Martin Rees — B1g/B1x, C9, 1942
+51. Sabine Hossenfelder — B1g/B1x, C9, 1976
+52. Eric Weinstein — B1g/B1n/B1x, C9, 1965
+53. Michael Levin — B1g/B1p, C9, 1969
+54. Stuart Kauffman — B1g/B1p/B1x, C9, 1939
+55. Scott Aaronson — B1g/B1n/B1x, C9, 1981
+56. Lex Fridman — B1x/B1a, C9, 1986
+57. Joscha Bach — B1g/B1d/B1x, C9, 1967
+58. Donald Hoffman — B1g/B1d/B1x, C9, 1955
+59. George Church — B1g/B1x, C9, 1954
+60. V.S. Ramachandran — B1g/B1x, C9, 1951
+61. Brian Eno — B1i/B1x, C9, 1948
+62. John Zorn — B1i, C9, 1953
+63. Steve Reich — B1i, C9, 1936
+64. Arvo Pärt — B1i, C9, 1935
+65. Ryuichi Sakamoto — B1i, C7, 1952
+66. Caroline Shaw — B1i, C9, 1982
+67. Nico Muhly — B1i, C9, 1981
+68. Laurie Anderson — B1i/B1a/B1x, C9, 1947
+69. William Basinski — B1i, C9, 1958
+70. Eliane Radigue — B1i, C9, 1932
+71. Anna Thorvaldsdottir — B1i, C9, 1977
+72. Tim Hecker — B1i, C9, 1974
+73. Morton Subotnick — B1i, C9, 1933
+74. Pauline Oliveros — B1i/B1x, C9, 1932
+75. Alva Noto — B1i/B1h, C9, 1965
+76. Sarah Davachi — B1i, C9, 1987
+77. Julia Holter — B1i/B1a, C9, 1984
+78. James Ferraro — B1i, C9, 1986
+79. Kaitlyn Aurelia Smith — B1i, C9, 1985
+80. Hildur Guðnadóttir — B1i, C9, 1982
+81. Apichatpong Weerasethakul — B1r/B1a/B1x, C13, 1970
+82. Béla Tarr — B1r, C9, 1955
+83. Nuri Bilge Ceylan — B1r/B1a, C13, 1959
+84. Lucrecia Martel — B1r/B1a, C13, 1966
+85. Claire Denis — B1r/B1a, C9, 1946
+86. Lars von Trier — B1r/B1a, C9, 1956
+87. Bruno Dumont — B1r/B1a, C9, 1958
+88. Roy Andersson — B1r/B1a, C9, 1943
+89. Terrence Malick — B1r/B1d/B1a, C9, 1943
+90. Werner Herzog — B1r/B1a/B1x, C9, 1942
+91. Michael Haneke — B1r/B1a, C9, 1942
+92. Tsai Ming-liang — B1r, C13, 1957
+93. Lav Diaz — B1r/B1a, C13, 1958
+94. Pedro Costa — B1r/B1a, C9, 1959
+95. Ruben Östlund — B1r, C9, 1974
+96. Andrey Zvyagintsev — B1r/B1a, C9, 1964  
+97. Olivier Assayas — B1r/B1a, C9, 1955  
+98. Paul Schrader — B1r/B1a, C9, 1946  
+99. Abbas Kiarostami — B1r/B1a/B1x, C13, 1940  
+100. Chantal Akerman — B1r/B1a/B1x, C9, 1950  
+101. Luciano Floridi — B1d/B1a/B1x, C9, 1964  
+102. Thomas Metzinger — B1d/B1a/B1x, C9, 1958  
+103. Markus Gabriel — B1d/B1a, C9, 1980  
+104. Raymond Tallis — B1d/B1a/B1g/B1x, C9, 1946  
+105. Costica Bradatan — B1d/B1a/B1x, C9, 1971  
+106. Massimo Pigliucci — B1d/B1g/B1x, C9, 1964  
+107. John Milbank — B1d/B1f/B1x, C9, 1952  
+108. Slavoj Žižek — B1d/B1a/B1x, C9, 1949  
+109. Eugene Thacker — B1d/B1a/B1x, C9, 1975  
+110. Reza Negarestani — B1d/B1a, C9, 1977  
+111. Bernard Stiegler — B1d/B1a/B1x, C9, 1952  
+112. Federico Campagna — B1d/B1a, C9, 1984  
+113. Timothy Brennan — B1a/B1d/B1x, C9, 1953  
+114. Agnes Callard — B1d/B1a/B1x, C9, 1976  
+115. Adrian Johnston — B1d/B1a, C9, 1969  
+116. Patricia Churchland — B1d/B1g/B1x, C9, 1943  
+117. Michel Foucault — B1d/B1a/B1x, C9, 1926  
+118. Peter Singer — B1d/B1a/B1x, C9, 1946  
+119. Jean-Luc Nancy — B1d/B1a, C9, 1940  
+120. François Laruelle — B1d/B1a, C9, 1937  
+121. Adam Curtis — B1r/B1x, C9, 1955  
+122. Maggie Nelson — B1a/B1x, C9, 1973  
+123. Mark Fisher — B1d/B1a/B1x, C9, 1968  
+124. Franco “Bifo” Berardi — B1d/B1a/B1x, C9, 1949  
+125. Jenny Odell — B1a/B1x, C9, 1986  
+126. Jonathan Lethem — B1a, C9, 1964  
+127. Jaron Lanier — B1g/B1x/B1a, C9, 1960  
+128. Helen DeWitt — B1a, C9, 1957  
+129. Michel Serres — B1d/B1a/B1x, C9, 1930  
+130. Peter Handke — B1a/B1b, C9, 1942  
+131. Andrei Codrescu — B1a/B1b/B1x, C9, 1946  
+132. William T. Vollmann — B1a, C9, 1959  
+133. Geoff Dyer — B1a/B1x, C9, 1958  
+134. George Saunders — B1a, C9, 1958  
+135. Teju Cole — B1a/B1x, C9, 1975  
+136. Emmanuel Carrère — B1a/B1x, C9, 1957  
+137. Deborah Levy — B1a/B1x, C9, 1959  
+138. Lydia Davis — B1a, C9, 1947  
+139. László Krasznahorkai — B1a/B1b, C9, 1954  
+140. César Aira — B1a, C13, 1949  
+141. Terence Tao — B1n/B1g/B1x, C9, 1975  
+142. Michael Nielsen — B1g/B1x, C9, 1974  
+143. Melanie Mitchell — B1g/B1x, C9, 1964  
+144. Steven Strogatz — B1g/B1n/B1x, C9, 1959  
+145. Jürgen Schmidhuber — B1g/B1x, C9, 1963  
+146. Geoffrey Hinton — B1g/B1x, C9, 1947
+147. Yoshua Bengio — B1g/B1x, C9, 1964
+148. Judea Pearl — B1g/B1x, C9, 1936
+149. Donald D. Hoffman — B1g/B1d/B1x, C9, 1955
+150. Daniel Kahneman — B1g/B1x, C9, 1934
+151. Gary Marcus — B1g/B1x, C9, 1970
+152. Antonio Damasio — B1g/B1x, C9, 1944
+153. Gerd Gigerenzer — B1g/B1x, C9, 1947
+154. Anders Sandberg — B1g/B1x/B1d, C9, 1972
+155. Sara Imari Walker — B1g/B1x, C9, 1979
+156. Brian Greene — B1g/B1x, C9, 1963
+157. David Eagleman — B1g/B1x/B1a, C9, 1971
+158. George Lakoff — B1g/B1d/B1x, C9, 1941
+159. Anil Seth — B1g/B1x, C9, 1972
+160. Carlo Sini — B1d/B1a, C9, 1933
+161. Mica Levi — B1i, C9, 1987
+162. Ellen Arkbro — B1i, C9, 1990
+163. Kali Malone — B1i, C9, 1994
+164. Caterina Barbieri — B1i, C9, 1990
+165. Kali Fasteau — B1i, C9, 1947
+166. Ikue Mori — B1i, C9, 1953
+167. Keith Fullerton Whitman — B1i, C9, 1973
+168. Ryoji Ikeda — B1i/B1h, C7, 1966
+169. Fennesz — B1i, C9, 1962
+170. Oneohtrix Point Never — B1i, C9, 1982
+171. Janek Schaefer — B1i, C9, 1970
+172. Valerio Tricoli — B1i, C9, 1977
+173. William Tyler — B1i, C9, 1979
+174. Tony Conrad — B1i/B1h/B1x, C9, 1940
+175. Charlemagne Palestine — B1i/B1h, C9, 1947
+176. Carl Stone — B1i, C9, 1953
+177. Maryanne Amacher — B1i/B1h, C9, 1938
+178. Hildur Guðnadóttir — B1i, C9, 1982
+179. James Tenney — B1i/B1h, C9, 1934
+180. Rafael Toral — B1i, C11, 1967
+181. Adam Curtis — B1r/B1x, C9, 1955
+182. Jean-Claude Rousseau — B1r, C9, 1946
+183. Wang Bing — B1r, C13, 1967
+184. Harun Farocki — B1r/B1x, C9, 1944
+185. Apichatpong Weerasethakul — B1r/B1x, C13, 1970
+186. Lav Diaz — B1r/B1x, C13, 1958
+187. Mati Diop — B1r, C9, 1982
+188. Albert Serra — B1r, C9, 1975
+189. Pedro González-Rubio — B1r, C13, 1976
+190. Nikolaus Geyrhalter — B1r, C9, 1972
+191. Miguel Gomes — B1r, C11, 1972
+192. Tsai Ming-liang — B1r, C13, 1957
+193. Ben Rivers — B1r, C9, 1972
+194. Lucien Castaing-Taylor — B1r/B1p, C9, 1966
+195. Véréna Paravel — B1r/B1p, C9, 1971
+196. Jean-Gabriel Périot — B1r, C9, 1981
+197. Maya Deren — B1r/B1x, C9, 1917
+198. Deborah Stratman — B1r/B1x, C9, 1967
+199. Patric Chiha — B1r, C9, 1975
+200. Chloé Galibert-Laîné — B1r/B1p, C9, 1988
